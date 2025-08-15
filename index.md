@@ -9,12 +9,14 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/VITALS.git/HEAD)
 
+
+
 ![https://cameras.alertcalifornia.org/images/logo-ac-ucsd.svg](https://cameras.alertcalifornia.org/images/logo-ac-ucsd.svg)
 [https://www.fire.ca.gov/](https://www.fire.ca.gov/)
 [Alert California](https://cameras.alertcalifornia.org/?pos=37.2391_-119.0039_6) 
 <img  alt="image" src="https://github.com/user-attachments/assets/c79d1fcd-5f6a-44ce-8dcf-64505d93c32e" />
 
-
+<iframe src="https://archive.org/embed/08-13-rashard-ci-serving-sites-again-follwers-ing-missing-screen-recording-2025-08-13-4.12.14-pm" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ### hotlinks
 [USGS WaTERDASHBOARD @usgs](https://dashboard.waterdata.usgs.gov/app/nwd/en/)
@@ -31,6 +33,7 @@
  
 <img src="https://ecostress.jpl.nasa.gov/downloads/gallery/wildfire/00155_gifford_fire.png" alt="ECO image"/>
 
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/791943984152035328" data-did="3ea880729083bee4b15999fe043852dadc9ab4c4"><a href="https://rashardmro.tumblr.com/post/791943984152035328/ffmpeg-cassini">https://rashardmro.tumblr.com/post/791943984152035328/ffmpeg-cassini</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
 <img alt="image" src="https://github.com/user-attachments/assets/0b5fa1b9-1e5d-4eb1-bfad-4c31bf2a8968" />
 
@@ -44,18 +47,7 @@
 [@datadesk related firedata @nasa-jpl @nasa-pds @nasa .pdf](https://ia601002.us.archive.org/9/items/interviewwith-dr-carol-stoker/0iceraidupdateSimpleScanStation20250813171923.pdf)
 [summerofresistance @cityoflosangeles](https://ia601002.us.archive.org/9/items/interviewwith-dr-carol-stoker/1_6_20summerofresistanceSimpleScanStation20250620100012.pdf)
 
-<div class="tupperware">
-    
-{% for image in site.static_files %}
-    {% if image.path contains 'assets/images/gallery-firedatacleanup' | sort: 'date' | reverse %} 
-        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
-        </a>
-    {% endif %}
-{% endfor %}
-
-</div>
-
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/791890190923907072" data-did="c7e7e40bf0f0fa13bcf1f1bc19053bfb0b8a92cb"><a href="https://rashardmro.tumblr.com/post/791890190923907072">https://rashardmro.tumblr.com/post/791890190923907072</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
 <img alt="To submit flight requests for the NASA Airborne Visible Infrared Imaging Spectrometer (AVIRIS), visit the website below. https://aviris.jpl.nasa.gov/status/flight_req.html " src="https://aviris.jpl.nasa.gov/images/aviris_text2.png" />
 
