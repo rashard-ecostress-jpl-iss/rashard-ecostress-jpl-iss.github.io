@@ -3,7 +3,10 @@
 ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg)
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 
-z
+Emit EMIT-Data-Resources
+Public
+forked from [nasa/EMIT-Data-Resources](https://github.com/nasa/EMIT-Data-Resources)
+
 [![EMiTBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasa/EMIT-Data-Resources.git/HEAD)
 
 ![image](https://github.com/user-attachments/assets/0e0e98d2-b3c5-4093-a842-9ea7a32baa6e)
