@@ -6,11 +6,12 @@
 
 <section class="floatleft floatright" markdown="1" itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting">
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/792252079752232960/v2" data-did="26d1f84b61d0bfa7dbcade17f75528816cbcb504"  ><a href="https://www.tumblr.com/rashardmro/792252079752232960/httpslamagcomnewsinside-hollywoods-orgasm-cul">https://www.tumblr.com/rashardmro/792252079752232960/httpslamagcomnewsinside-hollywoods-orgasm-cul</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/VITALS.git/HEAD)
 
 Documentary: [Human trafficking victims often hidden in plain sight](https://youtu.be/pzAwTCYS4gE). SHARE!
-[youtube.com/@RealWomenRealStories](https://www.youtube.com/@RealWomenRealStories)
+[youtube.com/@RealWomenRealStories](https://www.youtube.com/@RealWomenRealStories) [
 
 ![https://cameras.alertcalifornia.org/images/logo-ac-ucsd.svg](https://cameras.alertcalifornia.org/images/logo-ac-ucsd.svg)
 [https://www.fire.ca.gov/](https://www.fire.ca.gov/)
