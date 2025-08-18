@@ -4,6 +4,7 @@
 ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 
 z
+[![EMiT:Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasa/EMIT-Data-Resources.git/HEAD)
 
 ![image](https://github.com/user-attachments/assets/0e0e98d2-b3c5-4093-a842-9ea7a32baa6e)
 
