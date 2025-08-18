@@ -4,12 +4,13 @@
 
  
 
-<section class="floatleft floatright"  itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting">
+<section class="floatleft floatright" markdown="1" itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting">
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/VITALS.git/HEAD)
 
-
+Documentary: [Human trafficking victims often hidden in plain sight](https://youtu.be/pzAwTCYS4gE). SHARE!
+[youtube.com/@RealWomenRealStories](https://www.youtube.com/@RealWomenRealStories)
 
 ![https://cameras.alertcalifornia.org/images/logo-ac-ucsd.svg](https://cameras.alertcalifornia.org/images/logo-ac-ucsd.svg)
 [https://www.fire.ca.gov/](https://www.fire.ca.gov/)
