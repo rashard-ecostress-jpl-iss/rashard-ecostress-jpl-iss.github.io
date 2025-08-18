@@ -26,7 +26,7 @@ On the “Rock the Boat” video’s 20th anniversary, Aaliyah’s stylist, chor
 [Discogs](https://www.discogs.com/release/1223557-Aaliyah-Rock-The-Boat) [BlAcKiE_Beats Hiphop Collection](https://archive.org/details/blackiebeatscollection)
 [Wiki](https://en.wikipedia.org/wiki/Rock_the_Boat_(Aaliyah_song))
 
-{% include_relative watchlist.md %}
+{% include watchlist.md %}
 
 [SVG Editor](https://yqnn.github.io/svg-path-editor/)
 ![TWitterLogo](https://upload.wikimedia.org/wikipedia/fr/0/08/Twitter_logo_2010.svg)
