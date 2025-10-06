@@ -1,3 +1,7 @@
+---
+layout:default
+---
+
 <header itemscope itemtype="http://schema.org/Blog">
   <img src="https://raw.githubusercontent.com/rashardgds/rashardmro/refs/heads/master/assets/images/nasalogo_whitetext_redwing.svg" width="500" alt="The red v-shaped wing represents aeronautics" />
   </header>
@@ -5,6 +9,226 @@
  
 
 <section class="floatleft floatright" markdown="1" itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting">
+
+
+@blackgirlscode @stateofcalifornia 
+@nasa @nasa-jpl @stateofcalifornia
+Rashards Verifyable Skills.[..](https://gist.github.com/Fil/780eb92d6071d96343decebc77013ed1)
+Retriving Information With [Telnet](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/telnet)
+<img  alt="image @blackgirlscode @usnavby" src="https://github.com/user-attachments/assets/2aa5a89e-cdee-46b2-8878-e07476327ed4" />
+
+# The Best Oromo Music - Giiftii. Hallo Dawe - Part.1 (Sirbooota Oromoo)
+[Dj_QuEERRoO](https://www.youtube.com/@oromo44/videos)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/stwV3Q2q2RY?si=F6v3s5dBIiJ7KacM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+@CityOfLosAngeles :: #[HOLLY_MiTCHELL](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) / #[KAREN_BASS](https://www.congress.gov/member/karen-bass/B001270)
+I tried to submit our annual report on @meta's festival page in favor of [Governor Newsom's](https://news.berkeley.edu/2025/10/03/gov-newsom-visits-uc-berkeley-to-sign-bill-encouraging-quantum-innovation/) , [[TechInitiative](https://www.gov.ca.gov/2025/10/03/governor-newsom-signs-legislation-to-advance-californias-position-as-the-epicenter-of-global-innovation/)], but im seriously doxxed and scared T.i is doing playboy errands with [Normani](https://www.miaminewtimes.com/arts-culture/a-miami-contestant-just-got-sent-home-on-dancing-with-the-stars-40492232/),,, those ppl are such a disruption, she in it and i have to be dismissed by her, i made deals with [her](https://youtu.be/5GL9JoH4Sws?t=139)
+
+
+### MICRODEVICES LABORATORY 
+2024 | ANNUAL REPORT ::: 
+CLiCK[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/)
+[DOWNLOAD](https://microdevices.jpl.nasa.gov/about-mdl/annual-reports/2024%20MDL%20Annual%20Report.pdf)
+<img   alt="2024  ANNUAL REPORT @nasa-jpl" src="https://github.com/user-attachments/assets/9d51d89a-2185-439d-a7c9-76e1fe1733da" />
+2023 | ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia
+[DOWNLOAD](https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf)
+<img  alt="2023  ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia " src="https://github.com/user-attachments/assets/ddffc09f-3aed-4aab-88a7-28ecb53e4c76" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLifeAtMeta%2Fposts%2Fpfbid02rgw12GdoU148DekQQswJ8jZ4wADppXqDripNLL1EdpNydZugphEtmT2mtLyhfThAl&show_text=true&width=500" width="500" height="754" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+Thaka Sartu
+Supervisor Holly J. Mitchell this is our #AnnualReport https://microdevices.jpl.nasa.gov/about-mdl/annual-reports/2024%20MDL%20Annual%20Report.pdf House of Representatives (United States) Representative Sydney Kamlager-Dove Congressmember Karen Bass Normani Secretary of War Pete Hegseth Vice President JD Vance President Donald J. Trump Advanced Fertility Center of Chicago First Lady of Georgia Marty Kemp ############################ -#rashard NASA Jet Propulsion Laboratory
+
+<img alt="@emit-sds @whitehouse @stateofcalifornia" src="https://github.com/user-attachments/assets/1c6da31d-2c4d-4502-a19d-b3fcdccf789f" />
+
+
+[@blackgirlscode APHEXTWiN](https://soundcloud.com/richarddjames/sets/blackbox-life-recorder-21f-1?si=46fa6a18b5cc4b838c5c9b8eacf68ff2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+<img  alt="good luck @blackgirlcode" src="https://github.com/user-attachments/assets/43d8d492-1e19-4fcd-a027-0e6785f58132" />
+
+<img  alt="@nasa-pds" src="https://github.com/user-attachments/assets/079f7e92-a3e8-4947-88db-11d64b8302cf" />
+<img width="@nasa-jpl @blackgirlscode @cityoflosangeles @stateofcalifornia" alt="image" src="https://github.com/user-attachments/assets/9150d122-f809-4a34-b550-7432dfcd4e10" />
+
+<img   alt="@nasa-develop @blackgirlscode" src="https://github.com/user-attachments/assets/75c2ce92-a75a-4c0c-923b-4633b8b45f35" />
+
+
+@Cityoflosangeles CHLOROPHYLL @nasa-jpl theres a big smear here, im almost done with my report
+Coordinates: 33.8313°, -118.1745°
+<img   alt="image" src="https://github.com/user-attachments/assets/aa7d7094-3df4-48e5-81a6-cc641c38de32" />
+<img   src="https://github.com/user-attachments/assets/b97c9a1d-c811-4670-858d-a05696d832f8" />
+
+# California 
+Resivoirs, Dams, Settlements [Interactive Modifyable - @nasa MAP](https://worldview.earthdata.nasa.gov/?v=-126.37290600480512,30.84803013201238,-109.49553324480513,39.22518442382487&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,GRanD_Dams,GRanD_Reservoirs,GRUMP_Settlements,VIIRS_SNPP_GapFilled_BRDF_Corrected_DayNightBand_Radiance,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&s=-118.3414,33.3718&t=2025-08-20-T20%3A00%3A00Z)
+
+BASEMAP : VIIRS/NPP Gap-Filled Lunar BRDF-Adjusted Nighttime Lights Daily L3 Global 15 arc-second Linear Lat Lon Grid [NRT](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/near-real-time-versus-standard-products#:~:text=Near%20real%2Dtime%20(NRT),aboard%20a%20space%2Dbased%20platform.)
+`ViiRS` = Visible Infrared Imaging Radiometer Suite [State:OPERATiONAL](https://www.earthdata.nasa.gov/data/instruments/viirs) @Cityoflosangeles [LocalLinuxGroup](https://linux4hope.org/)
+ @StateOfCalifornia ... @emit-sds @nasa-jpl 
+<img   alt="image" src="https://github.com/user-attachments/assets/4e81e9aa-2669-4574-b098-735ea9d663d9" />
+
+# Los Angeles StandingWater/Chlorophyll spots
+[DAMS](https://worldview.earthdata.nasa.gov/?v=-145.07341709181696,22.734484126057275,-101.40474114617903,44.4096133844911&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Aqua_L2_Chlorophyll_A,MODIS_Terra_L2_Chlorophyll_A,SEAWIFS_ORBVIEW-2_GAC_Chlorophyll_a,MERIS_ENVISAT_Chlorophyll_a,VIIRS_SNPP_L2_Chlorophyll_A,VIIRS_NOAA20_Chlorophyll_a,VIIRS_NOAA21_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,OCI_PACE_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,GRanD_Dams,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies(hidden),MODIS_Combined_L3_Nadir-BRDF_Daily,MODIS_Combined_MAIAC_L2G_BidirectionalReflectance_Bands143,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2025-10-02-T20%3A34%3A43Z)
+<img  alt="image" src="https://github.com/user-attachments/assets/ffbee1fd-b928-4ef8-bbff-c9d1cb401c57" />
+<img  alt="Capture options @blackgirlscode https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.53/-13229135.55/4038281.25&layers=aqv_chla_20250930_sentinel:0.00:12.00:53.00,aqv_chla_20250929_sentinel:1.00:0.00:30.00,aqv_chla_20250917_sentinel:1.00:0.00:30.00,aqv_chla_20251001_sentinel:1.00:0.00:13.00,aqv_chla_20251002_sentinel:1.00:0.00:30.00" src="https://github.com/user-attachments/assets/7524eb2e-7877-4a60-96b1-b4a9a8ec1240" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1192fbb0-06af-417e-99bf-1ecce1049dfa" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8ef1e1f7-719a-4f2a-b602-0da7404a45b4" />
+
+[Portishead - dummy](https://youtu.be/cXf2bvfSKOs)
+
+
+The U.S. government is closed. However, because the information this website provides is necessary to protect life and property, this site will be updated and maintained during the federal government shutdown. For the latest forecasts and critical weather information, visit www.weather.gov.To learn more, visit commerce.gov. Automated data processing will continue to populate this site provided services do not require manual intervention. @nasa-jpl @nasa-develop
+<img  alt="image" src="https://github.com/user-attachments/assets/470a016d-1765-41d1-896d-a7fc9e7e316a" />
+
+[STREAM](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=14.25/-13157151.83/3995908.59&layers=aqv_chla_20250929_sentinel:1.00:0.00:30.00,aqv_chla_20250917_sentinel:1.00:0.00:30.00,aqv_chla_20251001_sentinel:1.00:0.00:30.00,aqv_chla_20251002_sentinel:1.00:0.00:30.00) + CHLOROPHYLL-a [Sentinel](https://eastcoast.coastwatch.noaa.gov/cw_olci_chl.php)
+
+[Los Angeles Area Protected Areas] [_MAP_](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,admin-usa,countries,landsat_human,earth;@-117.1,33.9,8.4z)
+<img   alt="FIRMS_24hrs,24hrs @-117 1,33 9,8 4z" src="https://github.com/user-attachments/assets/a2bd5c95-5bc9-4e7d-983e-4d0c79e6665b" />
+<img  alt="image" src="https://github.com/user-attachments/assets/71ec18e6-9d9f-4cfc-82a9-eed04f7d3a5b" />
+
+[LinkToMap @usgs @stateofcalifornia](https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-119.15285%2C33.72372%2C-116.86224%2C35.59589%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-119.15285137547677%2C33.723722515863706%2C-116.8622364594797%2C35.59588890625661%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C19%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
+<img  alt="image" src="https://github.com/user-attachments/assets/bd0d3d36-8263-4861-8480-a2121260cbdd" />
+
+[FireNews @nasa-jpl @blackgirlscode](https://www.universetoday.com/articles/the-los-angeles-fires-got-extremely-close-to-nasas-jpl-facility)
+
+[Solid Steel (1st June) This week we welcome back Prefuse 73](https://soundcloud.com/ninja-tune/solid-steel-radio-show-162018-hour-1-prefuse-73?fbclid=IwY2xjawNMAaJleHRuA2FlbQIxMABicmlkETBQRjNqNUtZb2VpVm56bVFmAR4g93-IciH8RdNjFZobpoSZwn0uNt6UtLpXmNhs2mDZONUd64v5q6QkrSdN8g_aem_i4Nb8EB5qK-cjM4NYr-UXQ)
+
+[aria](https://aria.jpl.nasa.gov/) [ppl](https://science.jpl.nasa.gov/projects/aria/)
+
+# Los Angeles Area Land Displacement
+[dev.openveda.cloud/stac/collections/opera_dist_S1_Jan2025_wildfire not working @nasa-develop @nasa-jpl](https://dev.openveda.cloud/stac/collections/opera_dist_S1_Jan2025_wildfire?.language=en)
+
+[Try This Harmonized Landsat Sentinel-2 product  Map] [OperaLandDisturbanceMap](https://search.earthdata.nasa.gov/search/granules?p=C2746980408-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&q=C2746980408-LPCLOUD&sb[0]=-118.62193%2C32.79052%2C-116.91227%2C34.09716&tl=1700221400.412!4!!&lat=33.83489611994596&long=-117.99120018085311&zoom=9.929777945872225)
+<img  alt="image" src="https://github.com/user-attachments/assets/93c939a8-2f89-447c-b0b0-19aa0d5be047" />
+
+[LosANGELES_OPERA 5.8mb png](https://ia600800.us.archive.org/24/items/RashardNasaEarthDataRiverWatch/LOSANGELES_LAND_DiSPLACEMENT__OPERA_L3_DISP-S1_IW_F18904_VV_20240701T135248Z_20241122T135247Z_v1.0_20250418T055222Z_BROWSE.png)
+
+<img alt="image" src="https://github.com/user-attachments/assets/fd4fe482-3165-48cc-b4c0-546e2c104912" />
+
+[ARiA/OPERA](https://gis.earthdata.nasa.gov/portal/apps/mapviewer/index.html?layers=0543f3b31a0e41f59be0d5cbc73d98f5)
+<img  alt="image" src="https://github.com/user-attachments/assets/beb3009e-7761-4865-b208-5c2b4bdba856" />
+
+
+### OLD NEWS
+- [READ @cityoflosangeles](https://www.earthdata.nasa.gov/news/los-angeles-wildfires-disrupting-daac-operations-data-access)
+Los Angeles Wildfires Disrupting DAAC Operations and Data Access
+NASA's Physical Oceanography Distributed Active Archive Center (PO.DAAC) and Jet Propulsion Laboratory (JPL) are experiencing operational outages that may affect data processing.
+- Fires Tear Through Los Angeles [READ](https://earthobservatory.nasa.gov/images/153793/fires-tear-through-los-angeles)
+- California deploys cutting-edge technologies for LA fires recovery with expanded NASA Jet Propulsion Laboratory partnership [READ](https://www.gov.ca.gov/2025/03/13/california-deploys-cutting-edge-technologies-for-la-fires-recovery-with-expanded-nasa-jet-propulsion-laboratory-partnership/)
+- NASA's ARIA Maps California Wildfires from Space [READ @nasa-jpl](https://www.jpl.nasa.gov/news/nasas-aria-maps-california-wildfires-from-space/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IgUdJEgpxy8?si=AsKw6HPvBLBH3Dgm" title="@cbs-news-data @blackgirlscode YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- 
+# Los Angelels [SarView](https://www.earthdata.nasa.gov/data/tools/vertex)
+
+# JPL Open Source Rover Project
+[DOCS](https://open-source-rover.readthedocs.io/en/latest/) / [GiT](https://github.com/nasa-jpl/open-source-rover)
+<object data="https://jplopensourcerover.com/#!/home" width="100%" height=400px ></object>
+
+## [SOL4518]
+[DOWNLOAD @nasa-jpl @nasa-pds @podaac @usgs @blackgirlscode @newshour](https://ia800800.us.archive.org/24/items/RashardNasaEarthDataRiverWatch/Sol4518.gif)
+<img alt="image" src="https://github.com/user-attachments/assets/75b71010-6d76-4737-a0ba-8bd86f714ec9" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ed7303dd-c22c-42c9-ae84-2133abf68faf" />
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1346261026848828%2F&show_text=false&width=357&t=0" width="357" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<img   alt="image @nasa-pds @nasa-develop @cityoflosangeles @stateofcalifornia" src="https://github.com/user-attachments/assets/f0acfdf7-87a4-48b3-8b2d-fbf6f3340825" />
+
+
+
+# Mars Exploration Rovers: Spirit and Opportunity
+
+[https://pds.mcp.nasa.gov/portal/investigations/urn--nasa--pds--context--investigation--mission---mars----exploration----rover/instruments](https://pds.mcp.nasa.gov/portal/investigations/urn--nasa--pds--context--investigation--mission---mars----exploration----rover/instruments) @cityoflosangeles @stateofcalifornia @blackgirlscode
+[link](https://pds.mcp.nasa.gov/portal/investigations/urn--nasa--pds--context--investigation--mission---mars----exploration----rover/instruments)
+[MER @nasa](https://web.archive.org/web/20090404035940/http://www.nasa.gov/mission_pages/mars/images/mer-image_feature_107.html) - [3d](https://web.archive.org/web/20100319062344/http://www.nasa.gov/images/content/54593main_navcam_glyph_cropped-A3R1.jpg) [Ring-Moon Systems Node](https://pds-rings.seti.org/) [wiki](https://en.wikipedia.org/wiki/Mars_Exploration_Rover)
+
+![pancam](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mars_Exploration_Rover.svg/1024px-Mars_Exploration_Rover.svg.png)
+
+![mer](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PIA17759-MarsOpportunityRover-SelfPortrait-20140106.jpg/1280px-PIA17759-MarsOpportunityRover-SelfPortrait-20140106.jpg)
+[PIA04995](https://photojournal.jpl.nasa.gov/jpegMod/PIA04995_modest.jpg)
+
+# Front Left Hazcam – Two Year Movie
+[jpl](https://www.jpl.nasa.gov/images/pia25799-front-left-hazcam-two-year-movie/)
+[Link @nasa](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
+
+<video controls poster="https://assets.science.nasa.gov/content/dam/science/psd/mars/resources/detail_files/2/7/27318_FRH-Two-Year-Movie.gif?w=640&h=480&fit=clip&crop=faces%2Cfocalpoint" >
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA25799.mp4" type="video/mp4">
+  <source src="https://upload.wikimedia.org/wikipedia/commons/7/78/Front_Left_Hazcam_%E2%80%93_Two_Year_Movie_%28PIA25799%29.webm" type="video/webm" />
+  
+  Download the
+  <a href="https://upload.wikimedia.org/wikipedia/commons/7/78/Front_Left_Hazcam_%E2%80%93_Two_Year_Movie_%28PIA25799%29.webm">WEBM</a>
+  or
+  <a href="">MP4</a>
+  video.
+</video>
+
+```html
+
+<video controls poster="https://assets.science.nasa.gov/content/dam/science/psd/mars/resources/detail_files/2/7/27318_FRH-Two-Year-Movie.gif?w=640&h=480&fit=clip&crop=faces%2Cfocalpoint" >
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA25799.mp4" type="video/mp4">
+  <source src="https://upload.wikimedia.org/wikipedia/commons/7/78/Front_Left_Hazcam_%E2%80%93_Two_Year_Movie_%28PIA25799%29.webm" type="video/webm" />
+  
+  Download the
+  <a href="https://upload.wikimedia.org/wikipedia/commons/7/78/Front_Left_Hazcam_%E2%80%93_Two_Year_Movie_%28PIA25799%29.webm">WEBM</a>
+  or
+  <a href="">MP4</a>
+  video.
+</video>
+
+```
+
+
+
+
+[@blackgirlscode](https://solarsystem.nasa.gov/downloads/download_6302_1757366839.zip) + [fb @nasa-jpl @nasa-pds](https://www.facebook.com/permalink.php?story_fbid=pfbid0tggTUKoeRmAokDpgQf4koCTtVg3g2pa9iHguPGC4mbL3Rfn21wo7wJp4Whnjq5YCl&id=100084464911565)
+[Caltrans Encampment Resource Network Tutorial](https://www.youtube.com/watch?v=wIk3gRsaSuI) + [MAP @cagov](https://quickmap.dot.ca.gov/) [culvercity.gov @stateofcalifornia `Encampment Resolution`](https://www.culvercity.gov/Services/Housing-Homeless-Human-Services/Homeless-Reporting-Dashboard/Encampment-Resolution) [stream eosdis.nasa.gov](https://ladsweb.modaps.eosdis.nasa.gov/stream/)
+
+The Los Angeles City Hall, Calif.
+[STEREOGRAPH](https://www.loc.gov/item/2016652050/)
+[LA 92](https://youtu.be/uaotkHlHJwo?si=9Ik0RxQ-ur_k_WhI)
+[LA92 Alt](https://www.nationalgeographic.com/tv/movies-and-specials/dab898d3-4259-4f15-bdc8-1ed62c7cfc5e) [
+LA92 Panel - Live  National Geographic](https://youtu.be/dWGUgjgOW_Y) [LA Stories: The 1992 Riots That Shook the City](https://youtu.be/oyIZp3XZ6Hs) [“ WATTS RIOT OR REVOLT? ” AUGUST, 1965 WATTS, LOS ANGELES RACE RIOTS SPECIAL REPORT PART 1 SM10075a](https://www.youtube.com/watch?v=MgXGIP6suow) ["A CITY AND ITS PEOPLE " A DAY IN 1960s LOS ANGELES CALIFORNIA EDUCATIONAL FILM](https://stock.periscopefilm.com/6625-a-city-and-its-a-people-see-xd72474/) [XD72474](https://www.youtube.com/watch?v=NHD5W-nj0Zo)
+
+# Dear MAyor ([Karen Bass](https://www.kqed.org/news/11932548/karen-bass-wins-la-mayoral-race))
+
+Hi, Its Rasahrd from NasaJpl the [YA](https://www.reddit.com/r/YAlit/comments/18xxv05/is_there_a_list_of_must_read_ya_books_especially/) Somali that takes short naps on the back portch of [city hall](https://www.laconservancy.org/learn/historic-places/los-angeles-city-hall/). I am following your instructions in the [County of Los Angeles Emergency Survival Guide](https://lacounty.gov/wp-content/uploads/2022/03/1058408_2019_ESG_English_Webversion1.pdf)
+
+it reads 
+
+>This Guide will help you to better prepare for, respond to and recover from disasters that face Los Angeles County. Our goal is to provide tips that assist you to be self-sufficient after a disaster
+
+<img src= "https://lacounty.gov/wp-content/uploads/2022/03/Emerg.Survival.Guide_-232x300.jpg" alt="Emergency Survival Guide" style="width:232px;height:300px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" />
+
+ [This guide will help you to better prepare for, respond to and recover from disasters that face Los Angeles County.](https://lacounty.gov/emergency/preparedness/emergency-survival-guide/)
+
+Its hard to explin everything in one quick note. But basically I was in Atlanta and [My Wife Vanished](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) and i got destituted by ppl throwing me in the mental hospital a girl i was told was my cousin [Kelly Danielle](https://www.instagram.com/daniellekellybjj/p/Cdw9_9nsfEe/?img_index=1) Renee Williams daughter by Winfred. My daughter was taken and i cannot even get a cellphone. 
+
+I eat at [St_Francis](https://www.stfranciscenterla.org/) once a day and [Reality Church in Hollywood](https://realityla.com/) 5 days a week since i got suspended from [Long Beach's Billie Jean Library](https://www.longbeach.gov/library/locations/main-library/)... So i need you to look at this conversation. Its the kidnapper of my wife#2/3 [She is no longer you wife](https://vimeo.com/396000267)
+
+im always running from ppl bc she is in the entertainment industry. They have an infrastructure that cuts the girls off from contact outside a [Streaming Media Cult](https://www.socialmediatoday.com/news/tiktok-explores-streaming-studios-la-facilitate-live-shopping/706040/) 
+
+anyway last night [June 9th](https://www.amoeba.com/our-stores/store-news/469/the-2024-la-pride-parade-block-party-in-hollywood-sunday-june-9th-469/) a gaurd with [Allied Universal](https://ausnewsroom.aus.com/) The guy with scruffy hair. Hes white he called this South American Assasin and he cahsed me with a holstered gun and bullet proof [Tactical Vest](https://www.blackhawk.com/tactical-nylon/tactical-vests/) out of the [subway](https://ktla.com/news/local-news/pedestrian-suffers-major-injuries-after-being-hit-by-l-a-subway-train/) 
+
+
+[Los Angeles 1940s in Color! Driving Downtown w/sound design added](https://www.youtube.com/watch?v=OiShtKv43hg) [California 1950s, Driving Wilshire Blvd in color w/sound design added](https://www.youtube.com/watch?v=5fL8n_aAisQ)
+
+# The Los Angeles Times  1895-08-15
+
+<iframe src="https://archive.org/embed/sim_los-angeles-times_the-los-angeles-times_1895-08-15" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Normani - Insomnia (Audio)](https://youtu.be/A7iWX2excWw?si=0tTzNJKSucAJGA2l) [Normani - Still (Audio)](https://youtu.be/Shz79-CRyzc?si=3Af7_YgLyLKD59g9) [Pilot Episode  I, Darrin, Take This Witch, Samantha  S1E1  Bewitched](https://youtu.be/oB_vXlgcCpw?si=O_TWnWDvSjS7-kYS)
+
+The Port of Los Angeles: a History
+<iframe src="https://archive.org/embed/csmha_000279" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[An illustrated history of Los Angeles County, California](https://archive.org/details/illustratedhisto01lewi/page/575/mode/2up)
+<iframe src="https://archive.org/embed/illustratedhisto01lewi" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[LaHistoryArchive](https://www.lahistoryarchive.org/) [East Los Angeles : history of a barrio](https://archive.org/details/eastlosangeleshi0000romo/page/n9/mode/2up) [Front page : 100 years of the Los Angeles times, 1881-1981](https://archive.org/details/frontpage100year0000unse/page/n9/mode/2up) [The history of forgetting : Los Angeles and the erasure of memory](https://archive.org/details/historyofforgett0000klei)
 
 
 ![NAsa-JPL @nasa-PDS](https://nasa-jpl.github.io/explorer-1/brand-jpl-logo.svg)
