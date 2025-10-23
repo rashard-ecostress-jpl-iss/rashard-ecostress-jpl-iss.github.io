@@ -1,6 +1,3 @@
----
-layout:default
----
 
 <header itemscope itemtype="http://schema.org/Blog">
   <img src="https://raw.githubusercontent.com/rashardgds/rashardmro/refs/heads/master/assets/images/nasalogo_whitetext_redwing.svg" width="500" alt="The red v-shaped wing represents aeronautics" />
