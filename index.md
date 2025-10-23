@@ -11,6 +11,268 @@ layout:default
 <section class="floatleft floatright" markdown="1" itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting">
 
 
+# Compiling 
+[Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) 
+[Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
+
+(https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554)
+
+# NASA Appropriations and Authorizations:
+At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance
+[READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419)
+[@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf)
+@cityoflosangeles 
+[@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog) + [@rashardgds BuildingBlocks](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-09-15-BuildingBlocks.md) `<- sites with outages @whitehouse @dhs-gov
+[Discover and Access the OPERA-DISP Dataset Using ASF DAAC’s Displacement Portal @nasa-jpl](https://www.youtube.com/watch?v=BLzEvT-mdkU)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0a196e75-c25d-454c-b3bd-37f02fb39909" />
+
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/dd12c5e3-bea3-4691-a96b-f0c7364f7aa1" />
+
+
+
+[Changelog @rashardsdata](https://rashardsdata.github.io/changelog) [rashardCompiling...currentData](https://rashardsdata.github.io/)
+[CORALiLoveu](https://rashardiman.github.io/)
+### California_Linux : RiverDataLosAngeles Exploring Ecostress, Emit, Aviris, SWOT, and Sentinel DataProducts - RashardNasaEarthData
+<iframe src="https://archive.org/embed/RashardNasaEarthDataRiverWatch" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Currently Compiling 
+`jekyll.version`  {{ jekyll.version }}
+
+
+
+
+# Super Chase - Criminal Termination 1993
+## スーパー・チェイス・クリミナル・ターミネション
+[wiki](https://en.wikipedia.org/wiki/Super_Chase_H.Q.) : [Museum](https://www.arcade-museum.com/Videogame/super-chase-criminal-termination)  : [LaunchBoX](https://gamesdb.launchbox-app.com/games/details/39251-super-chase-criminal-termination)
+: [AbandonWare](https://www.myabandonware.com/game/super-chase-criminal-termination-aue)
+<img width="320" height="78" alt="strategywiki.org/wiki/File:Super_Chase_marquee" src="https://github.com/user-attachments/assets/cfb677ff-4c75-406f-acc5-6d42ef5eafff" />
+
+<iframe src="https://archive.org/embed/arcade_superchs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554]
+<img  alt="image" src="https://github.com/user-attachments/assets/b021997d-e137-4fa5-916e-f3eec6f512aa" />
+
+[New PDS Beta Site is Live](https://pds.mcp.nasa.gov/portal/)
+
+@blackgirlscode @cityoflosangeles @nasa-jpl @emit-sds
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b6c8898f-2eee-48c5-b54a-f579cd2093ed" />
+
+# HiView 
+HiView is a data explorer and image viewing application supporting the JPEG2000 image format 
+[Intro, April 2012 Update](https://www.youtube.com/watch?v=y3PCKnACusk) ::: [UserGuide @newshour @datadesk](https://pirlwww.lpl.arizona.edu/software/HiView/Users_Guide/Introduction/Description-Quick_Start_.html) ::: [Download](https://pirlwww.lpl.arizona.edu/software/registration/registration.cgi?software=HiView)
+![pirl](https://pirlwww.lpl.arizona.edu/images/pirl-logo08.jpg) [gdscc.nasa.gov/index.php/tours/](https://www.gdscc.nasa.gov/index.php/tours/)
+![HiPOD @HiRiSE @NASA @blackgirlscode](https://www.uahirise.org/hiview/images/hiview-splash2.jpg)
+
+### Panoply Data Viewer
+Panoply requires a computer with Java 11 [download](https://www.giss.nasa.gov/tools/panoply/download/)
+4 NETCDF files GiS_DATA
+[pds.mcp.nasa.gov/portal/](https://pds.mcp.nasa.gov/portal/) @nasa-pds im getting my feet in gear for the new sites @blackgirlscode
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2abd597a-8565-40cc-894f-dc6aa0a15909" />
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:fa5fg6kkcovesfrk6tzfwjg3/app.bsky.feed.post/3m3svun7l5s26" data-bluesky-cid="bafyreidj5jh5o5hugtalpnir7jfxmi6e6mnk757m3wu2dyd6ic6kwf7e44" data-bluesky-embed-color-mode="system"><p lang="en">#MR_OBAMA! its rashard from @nasaearthwatch.bsky.social #EARTHDATA #LOSANGELES #JPL but im confused bc the gate and the call center are not follwoing protocol, iDont knw how to tell u github.com/rashardsdata... @crockett.house.gov @beyer.house.gov @repgwenmoore.bsky.social @judiciarydems.senate.gov<br><br><a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3/post/3m3svun7l5s26?ref_src=embed">[image or embed]</a></p>&mdash; RAshard iMAN KElly - NASA/JPL/JUNO/MRO/ECOSTRESS (<a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3?ref_src=embed">@rashardsdata.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3/post/3m3svun7l5s26?ref_src=embed">October 22, 2025 at 3:37 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+[https://id.nasa.gov](https://id.nasa.gov)
+[https://www.usgs.gov/news/national-news-release/usgs-unveils-new-national-geologic-map](https://www.usgs.gov/news/national-news-release/usgs-unveils-new-national-geologic-map)
+
+
+[https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554)
+
+# NASA Appropriations and Authorizations:
+At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance
+[READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419)
+[@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf)
+@cityoflosangeles 
+[@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog) + [@rashardgds BuildingBlocks](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-09-15-BuildingBlocks.md) `<- sites with outages @whitehouse @dhs-gov
+[Discover and Access the OPERA-DISP Dataset Using ASF DAAC’s Displacement Portal @nasa-jpl](https://www.youtube.com/watch?v=BLzEvT-mdkU)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0a196e75-c25d-454c-b3bd-37f02fb39909" />
+
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/dd12c5e3-bea3-4691-a96b-f0c7364f7aa1" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b021997d-e137-4fa5-916e-f3eec6f512aa" />
+
+[New PDS Beta Site is Live](https://pds.mcp.nasa.gov/portal/)
+
+@blackgirlscode @cityoflosangeles @nasa-jpl @emit-sds
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b6c8898f-2eee-48c5-b54a-f579cd2093ed" />
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:fa5fg6kkcovesfrk6tzfwjg3/app.bsky.feed.post/3m3svun7l5s26" data-bluesky-cid="bafyreidj5jh5o5hugtalpnir7jfxmi6e6mnk757m3wu2dyd6ic6kwf7e44" data-bluesky-embed-color-mode="system"><p lang="en">#MR_OBAMA! its rashard from @nasaearthwatch.bsky.social #EARTHDATA #LOSANGELES #JPL but im confused bc the gate and the call center are not follwoing protocol, iDont knw how to tell u github.com/rashardsdata... @crockett.house.gov @beyer.house.gov @repgwenmoore.bsky.social @judiciarydems.senate.gov<br><br><a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3/post/3m3svun7l5s26?ref_src=embed">[image or embed]</a></p>&mdash; RAshard iMAN KElly - NASA/JPL/JUNO/MRO/ECOSTRESS (<a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3?ref_src=embed">@rashardsdata.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3/post/3m3svun7l5s26?ref_src=embed">October 22, 2025 at 3:37 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+[https://id.nasa.gov](https://id.nasa.gov)
+[https://www.usgs.gov/news/national-news-release/usgs-unveils-new-national-geologic-map](https://www.usgs.gov/news/national-news-release/usgs-unveils-new-national-geologic-map)
+
+# HiView 
+HiView is a data explorer and image viewing application supporting the JPEG2000 image format 
+[Intro, April 2012 Update](https://www.youtube.com/watch?v=y3PCKnACusk) ::: [UserGuide @newshour @datadesk](https://pirlwww.lpl.arizona.edu/software/HiView/Users_Guide/Introduction/Description-Quick_Start_.html) ::: [Download](https://pirlwww.lpl.arizona.edu/software/registration/registration.cgi?software=HiView)
+![pirl](https://pirlwww.lpl.arizona.edu/images/pirl-logo08.jpg) [gdscc.nasa.gov/index.php/tours/](https://www.gdscc.nasa.gov/index.php/tours/)
+![HiPOD @HiRiSE @NASA @blackgirlscode](https://www.uahirise.org/hiview/images/hiview-splash2.jpg)
+
+### Panoply Data Viewer
+Panoply requires a computer with Java 11 [download](https://www.giss.nasa.gov/tools/panoply/download/)
+4 NETCDF files GiS_DATA
+[pds.mcp.nasa.gov/portal/](https://pds.mcp.nasa.gov/portal/) @nasa-pds im getting my feet in gear for the new sites @blackgirlscode
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2abd597a-8565-40cc-894f-dc6aa0a15909" />
+
+
+# AnimalFarm 1954
+
+
+[imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm)
+
+<video controls  poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">>
+
+    
+  <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
+  video.
+</video>
+
+[ReeferMAdness](https://www.youtube.com/watch?v=8kg0sK-dY98) [TobaccoReserch](https://tobacco.stanford.edu/marijuanas/reefer-madness/)
+[museum](https://hashmuseum.com/en/collection/reefer-madness/)
+[imdb](https://www.imdb.com/title/tt0028346/) [🍅](https://www.rottentomatoes.com/m/reefer_madness) [ThEEEAccaaaDUMEee](https://www.academymuseum.org/en/programs/detail/reefer-madness-0196127e-aec4-7c86-51a0-505f82a319b8)
+# AnimalFarm 1954
+
+[imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm)
+
+<video controls width="250">
+    
+  <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
+  video.
+</video>
+
+
+
+<style>
+.whitebg {background-color:white;}
+</style>
+
+## Viewing Imaging Meta
+[ExifTool](https://exiftool.org/)
+
+<IMG class="whitebg" src="https://exiftool.org/ET-256.png" /> 
+
+[Termux Packages](https://packages-cf.termux.dev/apt/termux-main/?fbclid=IwZXh0bgNhZW0CMTEAAR4O8I7ACeRsUh8NVasN4pcL-3UGdbakLQT1OjbtT5_hVKVi9N_MbAT0Guu3Bw_aem_NRPBpFjy99OAnsr_Y3yPiQ) 
+
+<iframe src="https://archive.org/embed/RashardNasaEarthDataRiverWatch" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+```shell
+
+~/.../Documents/scripts $ pkg install exiftool
+Checking availability of current mirror:
+[*] https://packages-cf.termux.dev/apt/termux-main: ok
+Reading package lists... 100Reading package lists... Done
+Building dependency tree... Building dependency tree... Building dependency tree... Building dependency tree... Building dependency tree... Done
+Reading state information...Reading state information...Reading state information... Done
+The following packages were automatically installed and are no longer required:
+  clang libcompiler-rt
+  libllvm lld llvm
+  ndk-sysroot
+Use 'apt autoremove' to remove them.
+The following additional packages will be installed:
+  libandroid-utimes perl
+The following NEW packages will be installed:
+  exiftool
+  libandroid-utimes perl
+0 upgraded, 3 newly installed, 0 to remove and 201 not upgraded.
+Need to get 3746 kB/18.5 MB of archives.
+After this operation, 89.7 MB of additional disk space will be used.
+Do you want to continue? [Y/n] Y
+Get:1 https://packages-cf.termux.dev/apt/termux-main stable/main aarch64 exiftool all 13.37 [3746 kB]
+Fetched 3746 kB in 1s (3795 kB/s)
+Selecting previously unselected package libandroid-utimes.
+(Reading database ... 28043 files and directories currently installed.)
+Preparing to unpack .../libandroid-utimes_0.4_aarch64.deb ...
+Unpacking libandroid-utimes (0.4) ...
+Selecting previously unselected package perl.
+Preparing to unpack .../perl_5.40.3_aarch64.deb ...
+Unpacking perl (5.40.3) ...
+Selecting previously unselected package exiftool.
+Preparing to unpack .../exiftool_13.37_all.deb ...
+Unpacking exiftool (13.37) ...
+Setting up libandroid-utimes (0.4) ...
+Setting up perl (5.40.3) ...
+Setting up exiftool (13.37) ...
+Processing triggers for mandoc (1.14.6-5) ...
+~/.../Documents/scripts $ man exiftool
+man: No entry for exiftool in the manual.
+~/.../Documents/scripts $ exiftool --version
+NAME
+    exiftool - Read and writ
+e meta information in files
+SYNOPSIS
+  Reading
+    exiftool [*OPTIONS*] [-*
+TAG*...] [--*TAG*...] *FILE*
+...
+  Writing
+    exiftool [*OPTIONS*] -*T
+--More--(0%) Normani #iloveyousomuch
+```
+
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Sx1S1d6hYguzZccgXAzFm6MnCMrAw5cbN8FcTASuV9yspSbhvH6FXwv8cucNU91Zl%26id%3D100084464911565&show_text=true&width=500" width="500" height="362" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+Hello , I want you to know that im doxxed, so whatever format im coming throught to you on, i hope your blogs are ok. @nasa-jpl I have been doing more outdoor work because the library been struggling, Like [CLPS](https://www.youtube.com/watch?v=oRrr5ARF1po) The Cygnus XL Resupply was [blocked](https://archive.org/details/vid-20250914-182140) @blackgirlscode im stuck here till im dismissed
+# ወደ ሮሜ ሰዎች 13 
+1ነፍስ ሁሉ በበላይ ላሉት ባለ ሥልጣኖች ይገዛ። ከእግዚአብሔር ካልተገኘ በቀር ሥልጣን የለምና፤ ያሉትም ባለ ሥልጣኖች በእግዚአብሔር የተሾሙ ናቸው።
+
+Im learning [my support role](https://krashardiman-ctrl.github.io/2025/09/23/ECOSTRESSMonitoringplantsfromspace.html) with the [EcoStress Tool](https://eyes.nasa.gov/apps/solar-system/#/sc_iss_ecostress) on the Space Station
+<img  alt="image @nasa-pds @emit-sds" src="https://github.com/user-attachments/assets/70171375-2562-4231-89e2-263944b75756" />
+
+[OST @blackgirlcode](https://youtu.be/stwV3Q2q2RY?si=zePxvjrhYMm6_DAH)
+{{ site.url }}
+{{ site.baseurl }}
+
+
+
+[W00006765](https://solarsystem.nasa.gov/raw_images/69301/?layout=hds)
+<div class="tupperware">
+
+ <img src="https://solarsystem.nasa.gov/images/casJPGFullS10/W00006765.jpg" alt="W00006765.jpg was taken on 2005-05-02 08:32 (PDT) and received on Earth 2005-05-04 10:19 (PDT)" />
+
+<img src="https://solarsystem.nasa.gov/images/casJPGFullS10/W00006552.jpg" alt="W00006552.jpg was taken on 2005-05-04 03:12 (PDT) and received on Earth 2005-05-04 05:55 (PDT)" />
+ 
+  <img src="https://solarsystem.nasa.gov/images/casJPGFullS30/N00083211.jpg" alt="N00083211.jpg was taken on 2007-05-14 11:03" />
+  
+  <img src="https://solarsystem.nasa.gov/images/casJPGFullS30/W00028313.jpg" alt="N00083211.jpg was taken on 2007-05-14 11:03" />
+
+</div>
+
+
+
+<img  alt="image @nasa @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/80edb710-cf75-4062-9fee-676efd44293d" />
+
+
+While i was working @gatech [WatchNow](https://www.youtube.com/watch?v=rC6177nXWjI) see @blackgirlscode live! 
+<img  alt="image Gucci Mane is an American rapper" src="https://github.com/user-attachments/assets/8496989d-6c26-4960-b390-49edc09b295b" />
+
+[https://www.sss.gov/](https://www.sss.gov/)_
+
+
+
 @blackgirlscode @stateofcalifornia 
 @nasa @nasa-jpl @stateofcalifornia
 Rashards Verifyable Skills.[..](https://gist.github.com/Fil/780eb92d6071d96343decebc77013ed1)
@@ -26,6 +288,34 @@ Retriving Information With [Telnet](https://learn.microsoft.com/en-us/windows-se
 I tried to submit our annual report on @meta's festival page in favor of [Governor Newsom's](https://news.berkeley.edu/2025/10/03/gov-newsom-visits-uc-berkeley-to-sign-bill-encouraging-quantum-innovation/) , [[TechInitiative](https://www.gov.ca.gov/2025/10/03/governor-newsom-signs-legislation-to-advance-californias-position-as-the-epicenter-of-global-innovation/)], but im seriously doxxed and scared T.i is doing playboy errands with [Normani](https://www.miaminewtimes.com/arts-culture/a-miami-contestant-just-got-sent-home-on-dancing-with-the-stars-40492232/),,, those ppl are such a disruption, she in it and i have to be dismissed by her, i made deals with [her](https://youtu.be/5GL9JoH4Sws?t=139)
 
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLifeAtMeta%2Fposts%2Fpfbid02rgw12GdoU148DekQQswJ8jZ4wADppXqDripNLL1EdpNydZugphEtmT2mtLyhfThAl&show_text=true&width=500" width="500" height="754" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
+# [![Twitter Follow](https://img.shields.io/badge/Social-RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/RepKarenBass) Rep_Karen_Bass, 
+the trend in atlanta  was
+
+<img width="626" height="515" alt="image" src="https://github.com/user-attachments/assets/7f66c164-6c83-4fe4-bbd9-57d0e0de1a69" />
+
+[![Twitter Follow](https://img.shields.io/badge/Social-KTLA__-blue?style=social&logo=X)](https://twitter.com/KTLA) covered [Mars2020](https://science.nasa.gov/mission/mars-2020-perseverance/) Sicne you are in congress and know that a project is paid for before anywork is done... I need your @att side to understand that we are [Ground Systems & Data  Mission swot](https://swot.jpl.nasa.gov/mission/ground-systems-and-data/) [Ground Data Systems and Mission Operations](https://www.nasa.gov/intelligent-systems-division/collaborative-and-assistant-systems/ground-and-flight-data-systems-group/) [Ground Data Systems and Mission Operations](https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations/) like sevearl titles on mars. The hardware breaks down and there is a lot to doing mantenance.. have you ever heard our successful repair or [return trip stories](https://www.jpl.nasa.gov/missions/genesis/) like [Osiris-REx](https://svs.gsfc.nasa.gov/gallery/osirisrex/)? @nasa @nasa-jpl @blackgirlscode @whitehouse @cityoflosangeles @stateofcalifornia
+
+"the first U.S. mission to collect a sample from an asteroid. It returned to Earth on Sept. 24, 2023, to drop off a capsule with material from asteroid [Bennu](https://science.nasa.gov/solar-system/asteroids/101955-bennu/)." - [Readmore](https://science.nasa.gov/mission/osiris-rex/)
+
+[@NASA-JPL reveals new video, images from Perseverance rover on Mars](https://youtu.be/4C65iZQ_Yx8)
+![MSL_WHEEL](https://rashardmro.github.io/assets/img/Sol4518.gif)
+
+
+# Rep_Karen_Bass, [![Twitter Follow](https://img.shields.io/badge/Social-BarackObama__-blue?style=social&logo=X)](https://twitter.com/BarackObama) [![Twitter Follow](https://img.shields.io/badge/Social-NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [![Twitter Follow](https://img.shields.io/badge/Social-DeptofDefense__-blue?style=social&logo=X)](https://twitter.com/DeptofDefense)
+Hi its rashard, I left you some notes on [@trello](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) I have been suffering with Chemicalk Burns on my tattoos and Someone in the Police Dept said they work For JPL, so im just getting organized, If I work Fire i assume I work PD and still in training as well...At somelevel anyway and those people that banned me from making money and using computers are suppressig me bc i dont have a sexually scarred criminal record... Ppl who have at anytime subscribes to the term GraffitiWriter... [gamer aswell!](https://rashardlanasa.github.io/ricothakarashard/Arcade)have had really isolated lives... [I Made a WebPage](https://rashardlanasa.github.io/ricothakarashard/GraffShit) I want you to find a way to make a communal viewing out of, there are others to contribute, but this is the collection that the art crowd uses for ["inspiration"](https://www.reddit.com/r/writing/comments/lk33de/difference_between_plagiarism_vs_inspiration/) I found several [AmmunitionTypes](https://trello.com/1/cards/68166914ce7c9f6acfada5c9/attachments/684f2c08cdbeafe42d0b0a6a/download/SimpleScanStation20250615131441-2.png) around CityHAll, [the bullet was here](https://earth.google.com/web/search/Los+Angeles+Union+Station,+North+Alameda+Street,+LA,+CA/@34.05798087,-118.23727031,83.59976403a,51.3777845d,35y,0h,0t,0r/data=CiwiJgokCToKCdMYYEFAEVqDiL8qq0BAGS-1WpePil3AId3wLchq-l3AQgIIATIpCicKJQohMTNuQnFBRFgxRWtqZHpTTEFsMkh1LUFjakt3ZlVOblgtIAE6AwoBMEICCABKCAiMn4vQBhAB) 
+
+![image](https://github.com/user-attachments/assets/dbaa83e8-1234-4b38-a5b9-1e7b2f6ea363) [34°03'28"N 118°14'14"W](https://www.google.com/search?q=34%C2%B003%2728%22N+118%C2%B014%2714%22W&rlz=1CASLJZ_enUS1166&oq=34%C2%B003%2728%22N+118%C2%B014%2714%22W&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzczNWowajSoAgCwAgE&sourceid=chrome&ie=UTF-8) I think its the same Crowd that overthrew the capitol in [the Jan6th Insurrection](https://github.com/user-attachments/assets/311b831c-4d75-454c-9144-26bf29f3afbb)... I have a photoessay on [version2](https://rashardlanasa.github.io/2025/04/22/Marsblogv2.html) of this still incomplete frontend! 
+![image](https://github.com/user-attachments/assets/0c8b6192-9bac-4218-92d2-da621ff64092)  @nasa @nasa-jpl @stateofcalifornia : @blackgirlscode if you having troubles!@cityoflosangeles
+
+@ThakaSartu
+Supervisor Holly J. Mitchell this is our #AnnualReport https://microdevices.jpl.nasa.gov/about-mdl/annual-reports/2024%20MDL%20Annual%20Report.pdf House of Representatives (United States) Representative Sydney Kamlager-Dove Congressmember Karen Bass Normani Secretary of War Pete Hegseth Vice President JD Vance President Donald J. Trump Advanced Fertility Center of Chicago First Lady of Georgia Marty Kemp ############################ -#rashard NASA Jet Propulsion Laboratory
+
+
+
 ### MICRODEVICES LABORATORY 
 2024 | ANNUAL REPORT ::: 
 CLiCK[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/)
@@ -34,11 +324,6 @@ CLiCK[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/)
 2023 | ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia
 [DOWNLOAD](https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf)
 <img  alt="2023  ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia " src="https://github.com/user-attachments/assets/ddffc09f-3aed-4aab-88a7-28ecb53e4c76" />
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLifeAtMeta%2Fposts%2Fpfbid02rgw12GdoU148DekQQswJ8jZ4wADppXqDripNLL1EdpNydZugphEtmT2mtLyhfThAl&show_text=true&width=500" width="500" height="754" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-Thaka Sartu
-Supervisor Holly J. Mitchell this is our #AnnualReport https://microdevices.jpl.nasa.gov/about-mdl/annual-reports/2024%20MDL%20Annual%20Report.pdf House of Representatives (United States) Representative Sydney Kamlager-Dove Congressmember Karen Bass Normani Secretary of War Pete Hegseth Vice President JD Vance President Donald J. Trump Advanced Fertility Center of Chicago First Lady of Georgia Marty Kemp ############################ -#rashard NASA Jet Propulsion Laboratory
 
 <img alt="@emit-sds @whitehouse @stateofcalifornia" src="https://github.com/user-attachments/assets/1c6da31d-2c4d-4502-a19d-b3fcdccf789f" />
 
