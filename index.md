@@ -29,6 +29,152 @@ Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS-BlackGirlsCodeVID 20
 
 ![rashard](https://github-production-user-asset-6210df.s3.amazonaws.com/112716515/460116978-5be21c81-f8bd-4505-b33f-2fe7c7e1350e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251025T221436Z&X-Amz-Expires=300&X-Amz-Signature=e6e3714c4b38459275ec7c284436f42c6b476f2d2e09165027c5ec86e26b2845&X-Amz-SignedHeaders=host)
 
+
+# [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
+NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
+
+
+Image of the Week [📸](https://mars.nasa.gov/mars2020/multimedia/raw-images/SIF_1663_0814583833_988EBY_N0791762SRLC02504_0000LMJ)
+## Mars Perseverance Sol 1663: WATSON Camera
+![imageoftheweek](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01663/ids/edr/browse/shrlc/SIF_1663_0814583833_988EBY_N0791762SRLC02504_0000LMJ01_1200.jpg)
+
+
+# [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
+NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
+
+# Mars Perseverance Sol 1664: Left Navigation Camera (Navcam)
+[Weather @nasa-jpl @blackgirlscode](https://www.msss.com/msss_images/latest_weather.html)
+This image was acquired on Oct. 25, 2025 (Sol 1664) at the local mean solar time of 11:09:30.
+![PDS Geosciences Node Mars Orbital Data Explorer](https://ode.rsl.wustl.edu/mars/images/geo.png)
+
+![NLF_1664_0814656274_927ECM_N0791762NCAM00501_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01664/ids/edr/browse/ncam/NLF_1664_0814656274_927ECM_N0791762NCAM00501_01_295J01_1200.jpg)
+
+[Mars Orbiter Data](https://ode.rsl.wustl.edu/mars/)
+
+# Mars Perseverance Sol 1499:
+Left Navigation Camera (Navcam)
+NASA's Mars Perseverance rover acquired this image using its onboard Left Navigation Camera (Navcam). The camera is located high on the rover's mast and aids in driving.
+
+This image was acquired on May 8, 2025 (Sol 1499) at the local mean solar time of 11:10:35.
+
+Image Credit: NASA/JPL-Caltech [READ](https://mars.nasa.gov/mars2020/multimedia/raw-images/NLG_1499_0800008543_566ECM_N0730000NCAM00520_00_2I4J)
+![Mars Perseverance Sol 1499](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01499/ids/edr/browse/ncam/NLG_1499_0800008543_566ECM_N0730000NCAM00520_00_2I4J01_1200.jpg)
+
+@WUSTL-CSPL @wustl 
+re:  [Analyst's Notebook](https://an.rsl.wustl.edu/m20/AN/an3.aspx)
+Hi its [Rashard](https://rashardiman.github.io/rashardlearned/la/eco/ecostress/space/dsn/nsn/climate/weather/2025/10/09/LosAngelesEcology.html) From [@nasa-jpl](https://jplopensourcerover.com/)! I was working with the [Analyst's Notebook](https://an.rsl.wustl.edu/) for my [page](https://thakarashard.github.io/rashardmro/2025/10/25/MArs-Front-Page-7-12-25.html) i am using to base my [decade in Review](https://thegutsylife.medium.com/what-is-a-decade-in-review-d4e89afaaa86) outline im using to prepare for my face to face when it comes around 
+
+I am on the Mars2020 team, but i got kidnapped and my family and every family i treid to start after that got split up So I am still active mission and back home in savannah people know when hunter needs you active duty its serious. So there, thats my commitment
+
+About the Notebooks. I am so geatful for the info, however im concerned that they stopped updating [Sol1499](https://mastcamz.asu.edu/galleries/sol-1499-chain-lakes-workspace-aeolian-change-detection-mastcam-z-mosaic/), I found some photos to do furthur research on and created an archive titled : [MartianGeology](https://archive.org/details/mars-geology-imaging-gifs/4486ml1072810140112637c00_drcx_2PCT%20%281%29.png), I had some [Xrays](https://ia600800.us.archive.org/13/items/mars-geology-imaging-gifs/ezgif.com-animated-gif-maker.gif)  i was working on . . . I placed an order for the data products availiable on that day [Order ID M20Order-2025-10-27-000624-56537](https://pds-imaging.jpl.nasa.gov/beta/search?gather.common.spacecraft=perseverance)
+_add filter_ : Filtering:Sol: 1499 to 1499 
+[ATLAs pds-imaging.jpl. @nasa.gov ](https://pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f254fe2e-1b79-4b2d-b78b-84e69b3b21a6" />
+
+### mastcamz [Link @nasa-pds](https://mastcamz.asu.edu/galleries/sol-1499-chain-lakes-workspace-aeolian-change-detection-mastcam-z-mosaic/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9c7a26de-cb4e-49ec-a35c-b9bc9ead9882" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/7d33d9fc-e7c9-4953-ac36-5117a252c10b" />
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-mars' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+
+
+
+
+![Mailin Space Science Systems](msss.com/images/msss_logo.gif)
+
+# _.fits_
+[.fits](https://fits.gsfc.nasa.gov/)
+### The standard data format used in astronomy
+- Stands for 'Flexible Image Transport System'
+- Endorsed by NASA and the [International Astronomical Union](https://fits.gsfc.nasa.gov/iaufwg/iaufwg.html)
+  [wiki](https://en.wikipedia.org/wiki/FITS)
+  
+![.fits](https://fits.gsfc.nasa.gov/FITSlogo.gif) 
+
+
+![geo](https://an.rsl.wustl.edu/m20/AN/i/geo-bw.svg)
+
+
+Use the [Analyst's Notebook](https://an.rsl.wustl.edu/m20/AN/an3.aspx) to explore planetary data from NASA Mars and lunar landed missions. The Notebook is a web application that integrates sequence information, engineering and science data, and documentation.
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2725c46d-116f-4d18-9154-4dec16c8b895" />
+
+
+<iframe src="https://archive.org/embed/mars-geology-imaging-gifs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+# Photojournal's URL Mishap
+-_its effect on my life_
+-Rashard , iman [thaka] kelly @blackgirlscode
+@nasa broke my blog . i feel amazing! @nasa-jpl i caint git no badge luv fo dat?! @usgs @cityoflosageles
+[Voyager](https://thakarashard.github.io/rashardmro/2024/11/19/Voyager1_n_2.html)
+`https://photojournal.jpl.nasa.gov/jpegMod/PIA02528_modest.jpg` has been blasted into Oblivion `It looks like you have reached a URL that does not exist or you do not have permission.` [TryHere @blackgirscode](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia02/pia02528/PIA02528_modest.jpg)
+
+`[https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia02/pia02528/PIA02528_modest.jpg](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia02/pia02528/PIA02528.jpg?w=900&h=900&fit=crop&crop=faces%2Cfocalpoint) _is the replacement_ the fix is to change the background declaration url to the new one and all should work out!
+
+
+| Item              | In Stock | Price |
+| :---------------- | :------: | ----: |
+| Opportunity        |   [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-opportunity-mer/)  | 23.99 |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |
+
+
+# RoverInventory
+| Year | Rover| HomePAge |
+| ---- | ------------- | ---- |
+| xxxx | Opportunity | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-opportunity-mer/) |
+| xxxx | Spirit | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/) |
+| xxxx | Curiosity | [Info](https://www.jpl.nasa.gov/missions/mars-science-laboratory-curiosity-rover-msl/) |
+| xxxx | Sojourner | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-opportunity-mer/) |
+| xxxx | Perseverance | [Info](https://science.nasa.gov/mission/mars-2020-perseverance/) |
+| xxxx | PathFinDer| [Info](https://photojournal.jpl.nasa.gov/spacecraft/Mars+Pathfinder+Rover) |
+    
+
+![ROVERWHEELS](https://upload.wikimedia.org/wikipedia/commons/1/10/H_rover-comp_wheels_02.jpg)
+![Sorjourner](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PIA01551.jpg/1024px-PIA01551.jpg)  
+
+# Mars Reconnaissance Orbiter 
+>Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
+## 6.1 Mission Overview
+The Mars Reconnaissance Orbiter (MRO) [1, 2] has a suite of instruments
+making observations at Mars, and it provides data-relay services for Mars
+landers and rovers. MRO was launched on August 12, 2005. The orbiter
+successfully went into orbit around Mars on March 10, 2006 and began
+reducing its orbit altitude and circularizing the orbit in preparation for the
+science mission. The orbit changing was accomplished through a process called 
+[<img src="http://www.spaceopedia.com/wp-content/uploads/2016/11/Mars_Reconnaissance_Orbiter-insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](http://www.spaceopedia.com/wp-content/uploads/2016/11/Mars_Reconnaissance_Orbiter-insignia.png) 
+aerobraking, in preparation for the “science mission” starting in November
+2006, followed by the “relay mission” starting in November 2008. MRO
+participated in the Mars Science Laboratory touchdown and surface mission
+that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+
+
+[SDO_LAB_BLOGSPOT](https://sdoisgo.blogspot.com/2025/08/new-ai-model-based-on-sdo-data.html) [BLOG](https://sdoisgo.blogspot.com/p/the-sun-now.html) [@nasa-jpl](https://sdo.gsfc.nasa.gov/) @nasa-develop @GEOS-ESM
+
+<img width="684" height="105" alt="image" src="https://github.com/user-attachments/assets/fd4a3823-1c3d-4051-8f25-003336ae4846" />
+
+![SDO_LAB](https://blogger.googleusercontent.com/img/a/AVvXsEhd_5O18StndQkOzfW5Bj4HOZArLhRSuuBxpURSeb_M8m8u4y9pxewLqGGY01NcAfml5D0lGigJcVL4WvQZdyzaAbQV5dfaOhFiOpo0zZSRZ7t2EwKvY12ElaR5BTHpYBi9one6Lm8laTlLG5ArMOOJ0VVGuy4-y763v4RrXnTs5dN_YbsqlkKAiTn_=s1080)
+
+
+
 # California_Linux: 
 
 [Current `MagMoB`](https://x.com/i/broadcasts/1djGXWXYBdeKZ)
