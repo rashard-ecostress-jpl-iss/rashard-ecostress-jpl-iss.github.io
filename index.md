@@ -1,6 +1,8 @@
 
 <header itemscope itemtype="http://schema.org/Blog">
+
   <img src="https://raw.githubusercontent.com/rashardgds/rashardmro/refs/heads/master/assets/images/nasalogo_whitetext_redwing.svg" width="500" alt="The red v-shaped wing represents aeronautics" />
+
   </header>
 
  
@@ -9,6 +11,10 @@
 
 # Compiling 
 
+[bloegin @blueorigin updated ~6min ago](https://www.blueorigin.com/missions/ng-2) 
+@nasa @cityoflosangeles @blackgirlscode @nasa-pds @nasa-jpl this is a mars Mission launch
+
+ready to go, delay ed for pace weather ; geomagnetic stones @TheSpaceDevs 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 [https://www.msss.com/science-images/](https://www.msss.com/science-images/)
