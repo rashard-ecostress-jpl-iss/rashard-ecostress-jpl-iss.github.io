@@ -9,6 +9,26 @@
 
 <section class="floatleft floatright" markdown="1" itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting">
 
+
+
+# Currently Compling [@BlueOrigin Mission Support](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ) , [NG-2](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ)
+[@blueorigin @nasa-jpl @blackgirlscode - WindSPEED @newshour](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/10848x10848.jpg)
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ca897271-3e2b-4519-a45d-e1e50f4d384b" />
+
+## New Glenn Mission NG-2 [Webcast -https://www.blueorigin.com/missions/ng-2](https://www.blueorigin.com/missions/ng-2)
+## Watch live: Blue Origin's New Glenn launches NASA's ESCAPADE mission to Mars
+[HELiOPHYSiCS](https://sdo.gsfc.nasa.gov/mission/spacecraft.php)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ecfxcTEl-1I?si=lMVhBhAZySdhl0yA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iheyXgtG7EI?si=wtnrX1Gq4KIxQHza" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[PiLOTisBACK @usgs](https://pilot.wr.usgs.gov/) 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ecfxcTEl-1I?si=lMVhBhAZySdhl0yA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Compiling 
 
 [bloegin @blueorigin updated ~6min ago](https://www.blueorigin.com/missions/ng-2) 
@@ -22,24 +42,10 @@ ready to go, delay ed for pace weather ; geomagnetic stones @TheSpaceDevs
 
 
 
-# Currently Compling [@BlueOrigin Mission Support](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ) , [NG-2](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ)
-[@blueorigin @nasa-jpl @blackgirlscode - WindSPEED @newshour](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/10848x10848.jpg)
-
-
-<img   alt="image" src="https://github.com/user-attachments/assets/ca897271-3e2b-4519-a45d-e1e50f4d384b" />
-
-## New Glenn Mission NG-2 [Webcast -https://www.blueorigin.com/missions/ng-2](https://www.blueorigin.com/missions/ng-2)
-[PiLOTisBACK @usgs](https://pilot.wr.usgs.gov/) 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sT4Hr-Il30?si=7w9ShB59sgRyL98q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ecfxcTEl-1I?si=lMVhBhAZySdhl0yA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9sT4Hr-Il30?si=OLWiGVeUTng1goay" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## Watch live: Blue Origin's New Glenn launches NASA's ESCAPADE mission to Mars
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iheyXgtG7EI?si=wtnrX1Gq4KIxQHza" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0ZMnXDviPtP4eN95G4hw8sgkDB7yaFtQi9aCxLcDyJi4V4PDbBkdmWi8cWsjreWKil%26id%3D100084464911565&show_text=true&width=500" width="500" height="520" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
