@@ -9,13 +9,606 @@
 
 <section class="floatleft floatright" markdown="1" itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting">
 
-
 # Compiling 
 
 [bloegin @blueorigin updated ~6min ago](https://www.blueorigin.com/missions/ng-2) 
 @nasa @cityoflosangeles @blackgirlscode @nasa-pds @nasa-jpl this is a mars Mission launch
 
 ready to go, delay ed for pace weather ; geomagnetic stones @TheSpaceDevs 
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+[https://www.msss.com/science-images/](https://www.msss.com/science-images/)
+![http://www.msss.com/](http://www.msss.com/)
+
+
+
+# Currently Compling [@BlueOrigin Mission Support](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ) , [NG-2](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ)
+[@blueorigin @nasa-jpl @blackgirlscode - WindSPEED @newshour](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/10848x10848.jpg)
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ca897271-3e2b-4519-a45d-e1e50f4d384b" />
+
+## New Glenn Mission NG-2 [Webcast -https://www.blueorigin.com/missions/ng-2](https://www.blueorigin.com/missions/ng-2)
+[PiLOTisBACK @usgs](https://pilot.wr.usgs.gov/) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sT4Hr-Il30?si=7w9ShB59sgRyL98q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ecfxcTEl-1I?si=lMVhBhAZySdhl0yA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sT4Hr-Il30?si=OLWiGVeUTng1goay" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Watch live: Blue Origin's New Glenn launches NASA's ESCAPADE mission to Mars
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iheyXgtG7EI?si=wtnrX1Gq4KIxQHza" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0ZMnXDviPtP4eN95G4hw8sgkDB7yaFtQi9aCxLcDyJi4V4PDbBkdmWi8cWsjreWKil%26id%3D100084464911565&show_text=true&width=500" width="500" height="520" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/05be11ed-698f-4e31-acc3-569be563dea8" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02HigiBLzBRBWtnSZa7oQ4AyqfT9wP2wucDZHFfDAvshxpfdsxC2R8DRexJ4g6LZeGl%26id%3D100084464911565&show_text=true&width=500" width="500" height="578" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0ZkPg2eJeDYwYvydxJ3pEpqniqgRebs5KpiyhSTzauACbxPGEgqj2eSJ5uyYmNzUVl%26id%3D100084464911565&show_text=true&width=500" width="500" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0tYXYcui53NsoFAN4JyUUdko58kgcfLqytUpvCNyXuh3kWAXYtGEcDDcsbHV6GReul%26id%3D100084464911565&show_text=true&width=500" width="500" height="508" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02LceiNHQf5yCuYogNMuNpdmARR78rZrdiMBmXEzZMYecgBq8eza4j3DSrGgd3JwgSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="667" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
+Index of /ma-cdn02/GOES/data/GOES19/GLM/CONUS/EXTENT3/ [link](https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/)
+<video controls width="250" poster="https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/20253170256_GOES19-GLM-CONUS-EXTENT3-625x375.jpg">
+    
+  <source src="https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/GOES19-CONUS-EXTENT3-625x375.mp4" type="video/mp4" />
+
+
+  Download the
+
+  <a href="https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/GOES19-CONUS-EXTENT3-625x375.mp4">MP4</a>
+  video.
+</video>
+
+New Glenn had targeted a 2:50 p.m. EST (1850 GMT) liftoff from Blue Origin's Space Launch Complex-36, at Cape Canaveral Space Force Station today (Nov. 12), to send NASA's twin ESCAPADE orbiters to Mars. "However, due to highly [elevated solar activity](https://www.ngdc.noaa.gov/dscovr/plots/dscovr_6hr_plots/2025/11/2025111106-6hr.png) and its potential effects on the ESCAPADE spacecraft, NASA is postponing launch until space weather conditions improve," Blue Origin wrote in a post on X.)
+[space.com - @TheSpaceDevs](https://www.space.com/space-exploration/launches-spacecraft/ongoing-solar-storm-delays-blue-origin-launch-of-nasa-mars-probes?__vfz=medium%3Dcomment_share_facebook%7Csharer_uuid%3D00000000-0000-4000-8000-01fcd3fe14fc&fbclid=IwY2xjawOCBcFleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe4umNwpXk4rXxxBIIhUL3ttMTPEn-e_s42izVumnv51z15a8_mi91uYv3omY_aem_muPQhVU45fctScZnEutqQw#vf-5191df2e-4aac-4fcb-b944-42b5ed1c1d65)
+
+[@blueorigin @nasa-jpl](https://www.ngdc.noaa.gov/dscovr/plots/dscovr_6hr_plots/2025/11/) <!@NOAAGOV 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/83a587a7-80d8-4009-92d3-5abd013651bc" />
+
+![@weather-gov](https://www.ngdc.noaa.gov/image/nesdisngdcleft.gif) 
+# Magnetometer (MAG) data flow resumed 2025-10-02 at 15:49 UTC
+[PORTAL @NOAAGov](https://www.ngdc.noaa.gov/dscovr/portal/index.html#/vis/summary/1d/1762848000000) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ce7e1740-d585-4148-8506-2a81e8f396e0" />
+
+# ESCAPADE
+Pioneering Low-Cost Planetary Exploration for NASA: the Escape and Plasma Acceleration and Dynamics Explorers [TRaiLER](https://www.youtube.com/watch?si=p1lNMQvF5JesXZrk&v=mFzbT6_ZX70&feature=youtu.be)
+
+[RocketLAb](https://x.com/RocketLab/status/1987930116186665027?s=20&fbclid=IwY2xjawOCAdJleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnC4OytgqTAGSTaUkKDxvrntRDpVm0Jw9rFyqYEv9EWPcoPCWla2DEWFmo_9_aem_B3ln14s_ficdByrLGgDqdw) 
+The Escape and Plasma Acceleration and Dynamics Explorers (ESCAPADE) mission to Mars, led by the University of California, Berkeley’s Space Sciences Laboratory, is set to launch sometime in fall 2024. It consists of two identical smallsats, named Blue and Gold, that will study Mars’ magnetosphere and its interaction with the solar wind. While the exact launch date is still to be determined, if the launch is successful, then ESCAPADE is projected to reach Mars by September 2025. [READMORE](https://www.ssl.berkeley.edu/escapade-mars-mission-on-track-for-fall-2024-launch/?fbclid=IwY2xjawOCAXRleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ) 
+
+North Dakota Dual Aurora Camera (NoDDAC) Live Stream [11/11](https://www.youtube.com/live/TZnqoj1FNvA)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02qMXMF8eb7Yun9BVPy4wbCBv8vjtvTFWzVSdkxY8e1LHnfF5JNnDyDEaVEV2Z6rfLl%26id%3D100084464911565&show_text=true&width=500" width="500" height="392" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02xjJMgywoY3vGRkRg2y2tsWsvmbXmgRWZmHcPW8AgkixqC7Hxxcsx8UsBHLHH2mDSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+# Scrub: New Glenn Mission NG-2 Webcast
+New Glenn's second mission, NG-2, is scheduled to launch no earlier than Sunday, November 9, from Launch Complex 36 at Cape Canaveral Space Force Station. This mission will deliver NASA's ESCAPADE twin spacecraft to Mars. Additionally, it will carry a technology demonstration from Viasat in support of NASA's Communications Services Project. 
+
+![Berkeley @ucberkeley](https://www.ssl.berkeley.edu/wp-content/uploads/2023/01/image-21.png) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e9WpN-c9VCQ?si=Zr--EvgC2gmBxGl0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid021HpumqHTZ3i6zFd9sMZ5CdR9s68st8ixPgXP3hQ8sJxZQdmL9DHWxzWFx2DZxRfpl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0KizeuB3DirYCayNGMw1otccY4G8rCFHj9amCqyQ75bsaTaepFacWXGNFLE8rAXktl%26id%3D100084464911565&show_text=true&width=500" width="500" height="508" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+-- Launch Support @nasa @blueorigin @noaagov @blackgirlscode @normani 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0JeCVne4oumsYKyvkvz2yeurcik4uEA2o2dC1pxP3e4ytjemAjR7pK1KbuueuGXogl%26id%3D100084464911565&show_text=true&width=500" width="500" height="597" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
+![ESCAPADE](https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014641/ESCAPADE-FINAL-Horizontal-Front_Web_print.jpg) 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0cEYpmQCFWR59KAkk5rTBVp1Y4jYqQpk8EfeQnHBQm2HAtd7wrfwuReU5hWdDpWsDl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+-- I like Naylor to know im still a safe person @cityoflosangeles @whitehouse @stateofcalifornia 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0AnMbxhoWtsjkNgEJQjCH4kVVWVe52HPkrQeXsPiSi6Dfc3DuVQgTdzFMzZsM55pPl%26id%3D100084464911565&show_text=true&width=500" width="500" height="307" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02aF7WEiuCwtz6DaSv9P8FLrYHzyL6y6PzuRi8ag3Bc4cxpyodi6XHCAi1agkcjS42l%26id%3D100084464911565&show_text=true&width=500" width="500" height="636" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+# PLANS
+## FlightPath
+![FLightpath](https://www.blueorigin.com/_next/image?url=https%3A%2F%2Fd1o72l87sylvqg.cloudfront.net%2Fredstone%2FNG-2_FlightProfile.jpg&w=1080&q=75)
+
+
+## Booster Recovery
+![boosterRecovery](https://www.blueorigin.com/_next/image?url=https%3A%2F%2Fd1o72l87sylvqg.cloudfront.net%2Fredstone%2FMissions_NG-2-BoosterRecovery.jpg&w=1080&q=75) 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
+
+[DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
+
+![ESCAPADE @nasa-jpl @blueorigin @cityoflosangeles @blackgirlscode](https://escapade.ssl.berkeley.edu/wp-content/uploads/2024/01/cropped-ESCAPADE-Logo_Color_Partial.png) 
+
+
+# @NASA iNSight LAnding
+[LaunchFacts / PRESSkiT](https://www.jpl.nasa.gov/news/press_kits/insight/launch/facts/) 
+
+[@nasa-jpl](https://astrobiology.nasa.gov/missions/insight/) @blackgirlscode @StateOfCalifornia @CityOfLosAngeles 
+[Link @blueorigin @TheSpaceDevs @nasa-pds](https://archive.org/details/CSPAN_20181202_233500_NASA_TV_InSight_Mars_Landing/start/60/end/182.7) 
+[1944](https://archive.org/details/CaptainAmerica1944Serial1/Captain+America_+1944+Serial+-+%231.mp4)
+
+<img  alt="image @blueorigin" src="https://github.com/user-attachments/assets/34f61e5b-3abd-455b-ae8c-95a2a7942b8e" /> 
+<iframe width="640" height="480" frameborder="0" allowfullscreen src="https://archive.org/embed/CSPAN_20181202_233500_NASA_TV_InSight_Mars_Landing?start=60&end=120" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/39a0fa65-b941-4251-9b09-f44e8952c714" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/d06e9eb7-3346-4952-8b18-5f4460a7233a" />
+
+@blackgirlscode [Lockheed insight trailer @nasa-jpl @isro](https://youtu.be/C0lwFLPiZEE) 
+[Lockheed - insight data](https://www.lockheedmartin.com/en-us/products/insight-mars-lander.html) 
+
+![@nasa insight](https://www.jpl.nasa.gov/news/press_kits/insight/assets/images/facts/insight-logo.png) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x4JFYy_Lb5Y?si=LHQ9btpaeBnr3tzO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<a href="https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf">download the PDF file.</a>
+
+<object  data="https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf" type="application/pdf"></object> 
+
+<object class="scroller" width="555" height="444" data="https://eyes.nasa.gov/curiosity/" type="text/html" >
+</object>
+
+
+
+## [Mars Exploration Program Analysis Group](https://pds-geosciences.wustl.edu/missions/mep/index.htm) 
+(MEPAG) [November 2025](https://archive.org/download/commitmentmaintenance/48584%20NASA%20Viking.mp4) Meeting
+Virtual - [November 12, 2025](https://www.lpi.usra.edu/mepag/meetings/mepagnov2025/)
+[@nasa-pds](https://github.com/nasa-pds) @[nasa-jpl](https://github.com/nasa-jpl) 
+Name
+Mr. Rashard Iman "Rashard" Kelly
+Company NASA: Jet Propulsion Laboratory LaCounty
+Country United States
+Telephone (818) 354-4321
+Email holetoanotheruniverse40@gmail.com
+ADA Special Needs ucla put some thing in my ankle that feels like a magnet... i gotta study more idk the probability of doom...
+Civil Servant non-NASA U.S. Govt. employee
+Registration Type Professional Virtual Registration
+Amount b$0.00 Your badge will appear as:
+
+```
+Rashard
+Kelly
+
+NASA: Jet Propulsion Laboratory LaCounty [@nasa-jpl](https://archive.org/download/commitmentmaintenance/48584%20NASA%20Viking.mp4)
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4d01be0f-799b-44c8-9e0c-5074f1108373" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e56c604c-11a6-4635-aff0-be773fb2ce9c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5bc7b3e1-5e1c-45fe-a5d7-b40dd4bf961c" />
+
+# CellularTestamonials
+[GloRilla - Internet Trolls](https://youtu.be/RmxF264KyIs) [Rico Nasty - @apple IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU) [BIA - FALLBACK _covidHospitalityIndustry_era](https://youtu.be/Tpj93Kv7exY?si=xiSx-r2VYTrzVKiI) [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?list=RDFiGAkDE7s7o) [WorldStar - CHiLDiSHGAMBiNO @nasa thats decatur for real and its a reality show market in @stateofcalifornia @cityoflosangles lacounty](https://youtu.be/ZQfWCazNH-c) [Hollywood](https://ia800105.us.archive.org/32/items/vid-20241231-094914/VID_20241231_094914.ia.mp4)
+[Linux-Journal_Archive](https://github.com/rm-hull/linux-journal-archive) _Helvetica_ [Trailer @blackgirlscode](https://www.youtube.com/watch?v=wkoX0pEwSCw)
+[Lost Boyz - Lifestyles Of The Rich And Shameless](https://youtu.be/0D-f01H6Kos?list=RDgvMCA9jHFZ0) [Why is Virtualization Useful? - virtualbox.org](https://www.virtualbox.org/manual/ch01.html#virt-why-useful)
+ [#Typography](https://mksd.jp/mksd_font_list.html) [Android Swap Space ?](https://docs.libretro.com/) 
+[Swap Space in Linux: What It Is & How It Works](https://phoenixnap.com/kb/swap-space)
+Swap space in Linux is used when the amount of physical memory (RAM) is full. If the system needs more memory resources and the RAM is full, inactive pages in memory are moved to the swap space. While swap space can help machines with a small amount of RAM, it should not be considered a replacement for more RAM. Swap space is located on hard drives, which have a slower access time than physical memory. Swap space can be a dedicated swap partition (recommended), a swap file, or a combination of swap partitions and swap files. Note that Btrfs does not support swap space. In years past, the recommended amount of swap space increased linearly with the amount of RAM in the system. However, modern systems often include hundreds of gigabytes of RAM. As a consequence, recommended swap space is considered a function of system memory workload, not system memory. [RedHatDocs](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-swapspace)
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehouse @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+
+
+![insight](https://d2pn8kiwq2w21t.cloudfront.net/images/18-mission-current-InSight_adj.height-700.png)
+
+
+{{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+
+# Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+{% for post in site.posts %}
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+                <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+          <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
+
+<img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
+
+<img  alt="image @blackgirlscode " src="https://github.com/user-attachments/assets/7e8f5285-5edb-432a-8c0d-bd8da9f8f945" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/09d55b1e-5c7a-47ea-963e-c506fcb6eb36" />
+
+<img    alt="image" src="https://github.com/user-attachments/assets/54ba4768-1c60-4eda-94d3-3bb796dcd795" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a5424fbf-b981-4a78-9819-8c5d78402dfc" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/40320ffc-521f-427c-ae06-fc5fab7ab4d3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/73252199-ff61-4c3e-9a4e-efc21f4bad1b" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/a9325e1f-b298-4688-8227-69d6eff075d4" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6eb1ab4d-b469-435e-8f9e-ed17ac2c44a3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ff607eb4-2f94-46a6-98cc-68166fa0c453" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ea91e936-9b21-4e92-84f2-a825dccf9ff0" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6efe872c-d8d4-451c-9051-7666fc087b9f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f2830884-c031-4780-bbb2-cbc59afd4e9f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/22f9bef7-677a-4ce1-b440-a07feb042187" />
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
+
+
+<form method="get" id="search-google" action="https://www.google.com/search" target="_blank"><input type="hidden" name="sitesearch" value="https://rashardgds.github.io" /><input type="text" name="q" maxlength="255" value="" placeholder="Search via Google" class="form-control" /></form>
+<h2> AnimalFarm 1954 </h2>
+
+<video controls width="250" poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">
+    
+  <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
+  video.
+</video>
+
+
+ [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+
+Maintaining Commitment @Nasa-Jpl _3arthdata MRO/JUNO:ECOSTRESS- @BlackGirlsCode
+<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+@SPlunk @nasa-jpl @blackgirlscode [Linux_ing_update](https://rashardiman.github.io/linux/) 
+
+
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+
+# California_Linux: 
+
+![duckStation](https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo_Duckstation.svg)
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid03xgJUwU4joJgkUwiz1w3rNYKTFVY1mu2sV99Xg1agFJyhinAjmcrhdYJnTzia3Csl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+@SPlunk @nasa-jpl @blackgirlscode [Linux_ing_update](https://thakarashard.github.io/linux/)
+Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS-BlackGirlsCodeVID 20251024 024214 336
+<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![rashard](https://github-production-user-asset-6210df.s3.amazonaws.com/112716515/460116978-5be21c81-f8bd-4505-b33f-2fe7c7e1350e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251025T221436Z&X-Amz-Expires=300&X-Amz-Signature=e6e3714c4b38459275ec7c284436f42c6b476f2d2e09165027c5ec86e26b2845&X-Amz-SignedHeaders=host)
+
+
+# [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
+NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
+
+
+Image of the Week [📸](https://mars.nasa.gov/mars2020/multimedia/raw-images/SIF_1663_0814583833_988EBY_N0791762SRLC02504_0000LMJ)
+## Mars Perseverance Sol 1663: WATSON Camera
+![imageoftheweek](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01663/ids/edr/browse/shrlc/SIF_1663_0814583833_988EBY_N0791762SRLC02504_0000LMJ01_1200.jpg)
+
+
+# [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
+NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
+
+# Mars Perseverance Sol 1664: Left Navigation Camera (Navcam)
+[Weather @nasa-jpl @blackgirlscode](https://www.msss.com/msss_images/latest_weather.html)
+This image was acquired on Oct. 25, 2025 (Sol 1664) at the local mean solar time of 11:09:30.
+![PDS Geosciences Node Mars Orbital Data Explorer](https://ode.rsl.wustl.edu/mars/images/geo.png)
+
+![NLF_1664_0814656274_927ECM_N0791762NCAM00501_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01664/ids/edr/browse/ncam/NLF_1664_0814656274_927ECM_N0791762NCAM00501_01_295J01_1200.jpg)
+
+[Mars Orbiter Data](https://ode.rsl.wustl.edu/mars/)
+
+# Mars Perseverance Sol 1499:
+Left Navigation Camera (Navcam)
+NASA's Mars Perseverance rover acquired this image using its onboard Left Navigation Camera (Navcam). The camera is located high on the rover's mast and aids in driving.
+
+This image was acquired on May 8, 2025 (Sol 1499) at the local mean solar time of 11:10:35.
+
+Image Credit: NASA/JPL-Caltech [READ](https://mars.nasa.gov/mars2020/multimedia/raw-images/NLG_1499_0800008543_566ECM_N0730000NCAM00520_00_2I4J)
+![Mars Perseverance Sol 1499](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01499/ids/edr/browse/ncam/NLG_1499_0800008543_566ECM_N0730000NCAM00520_00_2I4J01_1200.jpg)
+
+@WUSTL-CSPL @wustl 
+re:  [Analyst's Notebook](https://an.rsl.wustl.edu/m20/AN/an3.aspx)
+Hi its [Rashard](https://rashardiman.github.io/rashardlearned/la/eco/ecostress/space/dsn/nsn/climate/weather/2025/10/09/LosAngelesEcology.html) From [@nasa-jpl](https://jplopensourcerover.com/)! I was working with the [Analyst's Notebook](https://an.rsl.wustl.edu/) for my [page](https://thakarashard.github.io/rashardmro/2025/10/25/MArs-Front-Page-7-12-25.html) i am using to base my [decade in Review](https://thegutsylife.medium.com/what-is-a-decade-in-review-d4e89afaaa86) outline im using to prepare for my face to face when it comes around 
+
+I am on the Mars2020 team, but i got kidnapped and my family and every family i treid to start after that got split up So I am still active mission and back home in savannah people know when hunter needs you active duty its serious. So there, thats my commitment
+
+About the Notebooks. I am so geatful for the info, however im concerned that they stopped updating [Sol1499](https://mastcamz.asu.edu/galleries/sol-1499-chain-lakes-workspace-aeolian-change-detection-mastcam-z-mosaic/), I found some photos to do furthur research on and created an archive titled : [MartianGeology](https://archive.org/details/mars-geology-imaging-gifs/4486ml1072810140112637c00_drcx_2PCT%20%281%29.png), I had some [Xrays](https://ia600800.us.archive.org/13/items/mars-geology-imaging-gifs/ezgif.com-animated-gif-maker.gif)  i was working on . . . I placed an order for the data products availiable on that day [Order ID M20Order-2025-10-27-000624-56537](https://pds-imaging.jpl.nasa.gov/beta/search?gather.common.spacecraft=perseverance)
+_add filter_ : Filtering:Sol: 1499 to 1499 
+[ATLAs pds-imaging.jpl. @nasa.gov ](https://pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f254fe2e-1b79-4b2d-b78b-84e69b3b21a6" />
+
+### mastcamz [Link @nasa-pds](https://mastcamz.asu.edu/galleries/sol-1499-chain-lakes-workspace-aeolian-change-detection-mastcam-z-mosaic/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9c7a26de-cb4e-49ec-a35c-b9bc9ead9882" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/7d33d9fc-e7c9-4953-ac36-5117a252c10b" />
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-mars' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+
+
+
+
+![Mailin Space Science Systems](msss.com/images/msss_logo.gif)
+
+# _.fits_
+[.fits](https://fits.gsfc.nasa.gov/)
+### The standard data format used in astronomy
+- Stands for 'Flexible Image Transport System'
+- Endorsed by NASA and the [International Astronomical Union](https://fits.gsfc.nasa.gov/iaufwg/iaufwg.html)
+  [wiki](https://en.wikipedia.org/wiki/FITS)
+  
+![.fits](https://fits.gsfc.nasa.gov/FITSlogo.gif) 
+
+
+![geo](https://an.rsl.wustl.edu/m20/AN/i/geo-bw.svg)
+
+
+Use the [Analyst's Notebook](https://an.rsl.wustl.edu/m20/AN/an3.aspx) to explore planetary data from NASA Mars and lunar landed missions. The Notebook is a web application that integrates sequence information, engineering and science data, and documentation.
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2725c46d-116f-4d18-9154-4dec16c8b895" />
+
+
+<iframe src="https://archive.org/embed/mars-geology-imaging-gifs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+# Photojournal's URL Mishap
+-_its effect on my life_
+-Rashard , iman [thaka] kelly @blackgirlscode
+@nasa broke my blog . i feel amazing! @nasa-jpl i caint git no badge luv fo dat?! @usgs @cityoflosageles
+[Voyager](https://thakarashard.github.io/rashardmro/2024/11/19/Voyager1_n_2.html)
+`https://photojournal.jpl.nasa.gov/jpegMod/PIA02528_modest.jpg` has been blasted into Oblivion `It looks like you have reached a URL that does not exist or you do not have permission.` [TryHere @blackgirscode](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia02/pia02528/PIA02528_modest.jpg)
+
+`[https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia02/pia02528/PIA02528_modest.jpg](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia02/pia02528/PIA02528.jpg?w=900&h=900&fit=crop&crop=faces%2Cfocalpoint) _is the replacement_ the fix is to change the background declaration url to the new one and all should work out!
+
+
+| Item              | In Stock | Price |
+| :---------------- | :------: | ----: |
+| Opportunity        |   [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-opportunity-mer/)  | 23.99 |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |
+
+
+# RoverInventory
+| Year | Rover| HomePAge |
+| ---- | ------------- | ---- |
+| xxxx | Opportunity | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-opportunity-mer/) |
+| xxxx | Spirit | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/) |
+| xxxx | Curiosity | [Info](https://www.jpl.nasa.gov/missions/mars-science-laboratory-curiosity-rover-msl/) |
+| xxxx | Sojourner | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-opportunity-mer/) |
+| xxxx | Perseverance | [Info](https://science.nasa.gov/mission/mars-2020-perseverance/) |
+| xxxx | PathFinDer| [Info](https://photojournal.jpl.nasa.gov/spacecraft/Mars+Pathfinder+Rover) |
+    
+
+![ROVERWHEELS](https://upload.wikimedia.org/wikipedia/commons/1/10/H_rover-comp_wheels_02.jpg)
+![Sorjourner](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PIA01551.jpg/1024px-PIA01551.jpg)  
+
+# Mars Reconnaissance Orbiter 
+>Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
+## 6.1 Mission Overview
+The Mars Reconnaissance Orbiter (MRO) [1, 2] has a suite of instruments
+making observations at Mars, and it provides data-relay services for Mars
+landers and rovers. MRO was launched on August 12, 2005. The orbiter
+successfully went into orbit around Mars on March 10, 2006 and began
+reducing its orbit altitude and circularizing the orbit in preparation for the
+science mission. The orbit changing was accomplished through a process called 
+[<img src="http://www.spaceopedia.com/wp-content/uploads/2016/11/Mars_Reconnaissance_Orbiter-insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](http://www.spaceopedia.com/wp-content/uploads/2016/11/Mars_Reconnaissance_Orbiter-insignia.png) 
+aerobraking, in preparation for the “science mission” starting in November
+2006, followed by the “relay mission” starting in November 2008. MRO
+participated in the Mars Science Laboratory touchdown and surface mission
+that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+
+
+[SDO_LAB_BLOGSPOT](https://sdoisgo.blogspot.com/2025/08/new-ai-model-based-on-sdo-data.html) [BLOG](https://sdoisgo.blogspot.com/p/the-sun-now.html) [@nasa-jpl](https://sdo.gsfc.nasa.gov/) @nasa-develop @GEOS-ESM
+
+<img width="684" height="105" alt="image" src="https://github.com/user-attachments/assets/fd4a3823-1c3d-4051-8f25-003336ae4846" />
+
+![SDO_LAB](https://blogger.googleusercontent.com/img/a/AVvXsEhd_5O18StndQkOzfW5Bj4HOZArLhRSuuBxpURSeb_M8m8u4y9pxewLqGGY01NcAfml5D0lGigJcVL4WvQZdyzaAbQV5dfaOhFiOpo0zZSRZ7t2EwKvY12ElaR5BTHpYBi9one6Lm8laTlLG5ArMOOJ0VVGuy4-y763v4RrXnTs5dN_YbsqlkKAiTn_=s1080)
+
+
+
+# California_Linux: 
+
+[Current `MagMoB`](https://x.com/i/broadcasts/1djGXWXYBdeKZ)
+The Chemical Brothers -
+Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) 
+@BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)! iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ) [Messij](https://www.youtube.com/watch?v=4uQnXvRndcE)
+
+
+
+Mars Geology Imaging @nasa-pds @wustl @blackgirlscode 
+<iframe src="https://archive.org/embed/mars-geology-imaging-gifs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[ViKinGPoster](https://assets.science.nasa.gov/content/dam/science/psd/mars/downloadable_items/4/4/44756_Viking_76.jpg) [#Viking76poster](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/4/24900_viking40-patriotic-web.jpg?w=800&h=1200&fit=clip&crop=faces%2Cfocalpoint)
+
+
+
+<video preload="auto" width="auto" height="300" controls poster="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/4/24904_Viking_76-web.jpg"> 
+	<source src="https://ia800804.us.archive.org/4/items/48584NASAViking/48584%20NASA%20Viking.mp4" type="video/mp4">	 
+	<source src="https://ia600804.us.archive.org/4/items/48584NASAViking/48584%20NASA%20Viking.mp4" type="video/mp4">	 
+</video> 
+
+@nasa-jpl [linux computing @blackgirlscode](https://github.com/rashardsdata/linux/blob/master/index.md)
+[@nasa outreach ](https://www.nasa.gov/hhp/hhp-education-and-outreach/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0ca484d0-6d8c-448a-95d0-fad36b36f630" />
+
+Artwork commemorating the 40th anniversary of the Viking 1 and 2 missions to Mars. Each had an orbiter and lander pair. The Viking 1 Orbiter arrived at Mars on June 19, 1976, and the Viking 1 Lander was the first to touch down on Mars on June 20, 1976. The Viking 2 Orbiter arrived at Mars on August 7, 1976, and the Viking 2 Lander successfully touched down on September 3, 1976.
+
+<img  alt="ViKinGPoster @blackgirlscode @cityoflosangeles @stateofcalifornia @newshour @datadesk" src="https://assets.science.nasa.gov/content/dam/science/psd/mars/downloadable_items/4/4/44756_Viking_76.jpg" />
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0vceZFshyu1VwYEGGpy6kZP96F4sUXUP5y8YBjiWmogfM2RS9TvrkRV8SqVWUBsx8l%26id%3D100084464911565&show_text=true&width=500" width="500" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02vP74KXDmMCDgSRVTRMGEQayfjaCP3MaVqPZoUr4XA1yduEUQSeUZgeWQbCUw3RzUl%26id%3D100084464911565&show_text=true&width=500" width="500" height="723" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
+# California Constitution
+<object data="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf" type="application/pdf" width="400" height="400">
+<p>You don't have a PDF plugin, but you can <a href="https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf">download the PDF file.</a></p></object>
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+Mars Reconnaissance Orbiter [Cat @usnavy](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) 
+[RashardsPrimary:CATFiLE @nasa-jpl Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) 
+
+Mars Reconnaissance Orbiter [Cat @usnavy](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) [RashardsPrimary:CATFiLE @nasa-jpl Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)  [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) Nas[a](https://www.cia.gov/careers/)Jpl MRO [JUNO](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) [+](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat) iS[S](https://www.usgovernmentmanual.gov/Agency?EntityId=VSLfQ4vlJ2o=&ParentEId=+klubNxgV0o=&EType=jY3M4CTKVHY=) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD) ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg) ![Gem Version](https://img.shields.io/gem/v/jekyll.svg) [emit](https://earth.jpl.nasa.gov/emit/) [genesisReturn](https://ssd.jpl.nasa.gov/api/horizons.api?format=text&COMMAND=%27-47900%27&OBJ_DATA=%27YES%27&MAKE_EPHEM=%27YES%27&EPHEM_TYPE=%27OBSERVER%27&CENTER=%27500@399%27&START_TIME=%272006-01-01%27&STOP_TIME=%272006-01-20%27&STEP_SIZE=%271%20d%27&QUANTITIES=%271,9,20,23,24,29%27)
+![MSL @nasa](https://upload.wikimedia.org/wikipedia/commons/a/a3/Mars_Science_Laboratory_mission_logo.png)
+
+## Sol4518 [WheelDamage-BrowseImages](https://github.com/ricoThaka/rashardmro/tree/master/assets/images/mars/sol4518_wheelDamage) 
+
+![Soll4518](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/img/Sol4518.gif) 
+
+[Mars Science Laboratory: Curiosity Raw Images](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=100&page=0&mission=msl&begin_sol=4518&end_sol=4518&af=MAST_LEFT%7CMAST_RIGHT%2Cchemcam%2Bprc%3A%3Asample_type%2Cfull%3A%3Asample_type%2Csubframe%3A%3Asample_type%2C)
+
+<div class="tupperware_2col">
+  
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740011700693C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740021700694C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003740001700692C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003720011700691C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003720001700690C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003710011700689C00_DXXX.jpg" />
+<img  alt="image" src="https://mars.nasa.gov/msl-raw-images/msss/04624/mhli/4624MH0003710001700688C00_DXXX.jpg" />
+
+</div>
+[SHaaDiThakaRashardRiCoTHakA](https://thakarashard.github.io/)
+<img alt="image" src="https://github.com/user-attachments/assets/8c3f90f5-ef6f-49ea-8358-2271af477d19" />
+<img  alt="image" src="https://github.com/user-attachments/assets/4e01c298-82cf-4f9d-bf38-38d05bb9cb10" />
+
+
+
+[NASA
+Work Breakdown
+Structure (WBS)
+Handbook](https://www.nasa.gov/wp-content/uploads/2023/08/nasa-work-breakdown-structure-handbook.pdf)
+
+
+[DOWNLOAD:PDF](https://github.com/rashardgds/linux/blob/master/Documentation/1_july4postgriffithSimpleScanStation20250705100835.pdf)
+
+[CodeBaseHQ](https://github.com/BKWLD/codebasehq) 
+Git Instructions to import and work quickly
+
+
+@SPlunk @nasa-jpl @blackgirlscode [Linux_ing_update](https://thakarashard.github.io/linux/)
+
+
+
+## NASA Appropriations and Authorizations: At a Glance
+[https://www.congress.gov/crs-product/R43419](https://www.congress.gov/crs-product/R43419)
+Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding. This product provides data on past and current NASA appropriations, as well as the President's FY2026 budget request and congressional action on FY2026 appropriations and authorizations of appropriations. 
+At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance
+[READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419)
+[@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf)
+@cityoflosangeles 
+[@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog) + [@rashardgds BuildingBlocks](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-09-15-BuildingBlocks.md) `<- sites with outages @whitehouse @dhs-gov
+[Discover and Access the OPERA-DISP Dataset Using ASF DAAC’s Displacement Portal @nasa-jpl](https://www.youtube.com/watch?v=BLzEvT-mdkU)
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+<img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" />
+<img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid021UdKvDsfbGEc3hmGPmTYPMYZTsyfKQdaUD1CCcjdtpZckNi9VGc3ASM81wb7koEgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+[@nasa-jpl ViRTUAL_TOUR](https://www.jpl.nasa.gov/virtual-tour/) ::: [DSN](https://eyes.nasa.gov/apps/dsn-now/dsn.html) ::: [NSN](https://scan-now.gsfc.nasa.gov/)
+ [@amazon](https://github-production-user-asset-6210df.s3.amazonaws.com/112716515/460116978-5be21c81-f8bd-4505-b33f-2fe7c7e1350e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251025T221436Z&X-Amz-Expires=300&X-Amz-Signature=e6e3714c4b38459275ec7c284436f42c6b476f2d2e09165027c5ec86e26b2845&X-Amz-SignedHeaders=host) 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02YCPegTJ1TTfb7Qw2vPkmSW7armY6WpHP4xPyC9WsxvvjnYLjtKA8V4VWm6W58kstl%26id%3D100084464911565&show_text=true&width=500" width="500" height="698" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+Essence tell her hi [https://www.11alive.com/article/entertainment/television/programs/the-a-scene/why-rapper-mulatto-changed-her-name/85-2e9c3a1c-0d0f-4ea3-9589-91ded4a60165](https://www.11alive.com/article/entertainment/television/programs/the-a-scene/why-rapper-mulatto-changed-her-name/85-2e9c3a1c-0d0f-4ea3-9589-91ded4a60165) [https://www.hotnewhiphop.com/670664-latto-name-change](https://www.hotnewhiphop.com/670664-latto-name-change) Normani im scared i dont want her running up on me... she will ruin everything!  [https://www.complex.com/music/a/cmplxtara-mahadevan/latto-responds-troll-referencing-her-past-rap-name](https://www.complex.com/music/a/cmplxtara-mahadevan/latto-responds-troll-referencing-her-past-rap-name) Secretary [Sean Duffy](https://yandex.com/search?text=sean+duffy+nasa+news&lr=103322) imma be real im in a bind... [Rachel](https://www.dogpile.com/serp?q=duffy+rachael+nasa&page=5&sc=zPiM5v7VivLc00) [Campos](https://search13.lycos.com/web/?q=rachel+duffy&keyvol=00c30baf3111f2fed00c&_gl=1%2A1ge20nd%2A_ga%2AMTQyNzA1MTA0MC4xNzYxNDI3NzIz%2A_ga_76FJGHQNN6%2AczE3NjE0Mjc3MjMkbzEkZzAkdDE3NjE0Mjc3MjMkajYwJGwwJGgw)-[Duffy](https://presearch.com/search?q=duffy+newsom) [Jennifer](https://lifeoutloudest.com/2025/07/26/holy-innocents-burial-programdoing-what-god-would-have-us-do-purchasing-pps-dead-babies-for-respectful-interment/) [Siebel](https://www.weeklywilson.com/tag/ron-desantis/) [Newsom](https://www.mojeek.com/search?q=jen+seibel+newsom&s=41) [Governor Gavin](https://www.youtube.com/watch?v=PreGYLUVhdo) Newsom [Congressmember Karen](https://www.google.com/search?q=karen+bass+los+angeles+news&sca_esv=30cc307e8b6ba113&rlz=1C1GCEJ_enUS1185US1185&sxsrf=AE3TifPr0-jGIaKfUf4a4MdnMA89J6Q8ng:1761428058176&ei=WkL9aLPCCurXkPIPuIyniQ0&start=10&sa=N&sstk=Af77f_c7_wW4KCy-V-9SmABEkAQQq5mnqOBMoGPgbkPtNFOmuMDfOZc3aCyTWU3iFm2XHkarxva4NixSxTfNhKl04cmvC19y5T86Hw&ved=2ahUKEwiz19HtpsCQAxXqK0QIHTjGKdEQ8NMDegQIChAW&biw=1920&bih=953&dpr=1) Bass The [Secretary of the Navy](https://www.secnav.navy.mil/Pages/default.aspx) The Office of the [Chief of Naval Operations](https://www.navy.mil/Leadership/Chief-of-Naval-Operations/) ; [Mori & Associates](https://www.linkedin.com/company/mori-associates) Grammy Awards 
+`Warning`! You are engaging in behavior that may be considered annoying or abusive by other users. Facebook's systems determined that you were going too fast when taking an action. You must significantly slow down. Further misuse of site features may result in a temporary block or your account being permanently disabled.
+[@nasa](https://plus.nasa.gov/video/cosmic-dawn-the-untold-story-of-the-james-webb-space-telescope/) [@nasa-jpl](https://www.jpl.nasa.gov/news/?fbclid=IwY2xjawNqIx5leHRuA2FlbQIxMQABHlxqroq_1vpwN0GQJiotXgzywjT_kMcTSiKt_ZqyyE3Zgm1QwqrXV8yuejzA_aem_ejrvHgktgIO2WsEvSJVQuw&page=2) [@cisagov](https://www.cisa.gov/) im being doxxed on [@meta](https://www.metacareers.com/) [@blackgirlscode](https://www.wearebgc.org/) [@nasa-pds](https://pds.nasa.gov/)
+If you think this doesn't go against our Community Standards let us know. Give feedback
+<img  alt="image" src="https://github.com/user-attachments/assets/befe99ca-733d-4680-9197-8cc40d1d1c82" />
+
+
+Private Snafu
+<iframe src="https://archive.org/embed/private-snafu-collection" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+### NASA's [Deep Space Network](https://www.nasa.gov/communicating-with-missions/dsn/) Turns 60
+What's Next? (Live Public Talk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7qnU27pRA9Q?si=sr1QFZEa7Abw74R6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/) : [GoldsStone](https://www.gdscc.nasa.gov/index.php/antennas/)
+
+[NASA TV In Sight Mars Landing  CSPAN  December 2, 2018 6:35pm-8:01pm EST](https://archive.org/details/CSPAN_20181202_233500_NASA_TV_InSight_Mars_Landing)
+
+
+# Ubuntu Summit 25.10 | Day Two
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WvNgMEumSoA?si=PZjPQ-9n8q4dT3s5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+NASA Appropriations and Authorizations: At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance [Link](https://www.congress.gov/crs-product/R43419)
+[@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf) @cityoflosangeles 
+[@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog)
+@nasa-jpl @blackgirlscode 
+
+NASA Appropriations and Authorizations: At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance [Link](https://www.congress.gov/crs-product/R43419)
+[@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf) @cityoflosangeles 
+[@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0a196e75-c25d-454c-b3bd-37f02fb39909" />
+
+
+[pds.mcp.nasa.gov/portal/](https://pds.mcp.nasa.gov/portal/) @nasa-pds im getting my feet in gear for the new sites @blackgirlscode
+
+
+[Liquid reference](https://shopify.dev/docs/api/liquid) Liquid is a template language created by Shopify. It's available as [an open source project on GitHub](https://github.com/ThakaRashard/liquid), and is used by many different software projects and [companies](https://www.nasa.gov/international-space-station/).
+[Comments in GitHub flavour of Markdown](https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9)
+>[TryingThis](https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9?permalink_comment_id=3450152#gistcomment-3450152)
+[//]: # (This is a comment.)
+[//]: # (This is a comment on a new line.)
+![image](https://github.com/user-attachments/assets/6433a024-6b1e-4c09-a48a-659f125729c9)
+[Creating and highlighting code blocks - MARKDOWN @github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks) [HiGHTLiGHTiNG](https://www.markdownguide.org/extended-syntax/#highlight) ![SHOPiFY](https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/shopify-wordmark-monochrome-CpVsfBAAmxEP.svg)
+I need to highlight these ==very important words==.
+```
+I need to highlight these ==very important words==.
+```
+[https://admin.shopify.com/store/holetoanotheruniverse](https://admin.shopify.com/store/holetoanotheruniverse) 
+
+
+[ASTRALWERKS CASSETTE SAMPLER SUMMER 1994](https://youtu.be/kypmFar9CRE?t=1248)
+![BAKERSFiELD](https://eoimages.gsfc.nasa.gov/images/imagerecords/80000/80595/wasco_ast_2011191_lrg.jpg)
+
 [Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) 
 [Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
 
