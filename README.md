@@ -4,7 +4,7 @@
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 @podaac @nasa-jpl @developmentseed @landsat the background for my iss pages site is gone and the hosting changed along with the path to the file 
 `    background: url(https://landsat.gsfc.nasa.gov/wp-content/uploads/2013/12/San_Fran_old_432.jpg) no-repeat 0 0 fixed; 
-    background-size: cover;`\
+    background-size: cover;`\ `background: url(https://landsat.gsfc.nasa.gov/wp-content/uploads/2013/12/San_Fran_new_432.jpg) no-repeat 0 0 fixed;` @cityoflosangeles @nasa @blackgirlscode
 
  ```
 html {
@@ -38,6 +38,44 @@ font-size: 1rem;
     }
 
 
+```
+
+```
+
+section {
+
+  display : block;
+  flex-wrap: wrap;
+  border-radius: 0px 0px 0px 0px;
+  margin-top: 0px;
+width: 90vh; 
+padding: 0px;
+  margin-bottom: 40px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: -195px;
+  line-height: 1.5;
+/* opera does not like 'margin:20px auto' */
+/* background: #666; */
+border: 1px solid white;
+background: url(https://landsat.gsfc.nasa.gov/wp-content/uploads/2013/12/San_Fran_new_432.jpg) no-repeat 0 0 fixed;
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
+background-size: cover;
+margin-right: auto;
+margin-left: auto; 	
+/* background: url(https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01046/ids/edr/browse/rcam/RRF_1046_0759804806_506ECM_N0495338RHAZ02420_01_295J01_800.jpg) no-repeat 0 0 fixed; */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
+
+text-align:left; 
+/* part 2 of 2 centering hack */
+voice-family: "\"}\"";
+voice-family:inherit;
+
+
+box-shadow: rgba(255,255,255, 0.4) 5px 5px, rgba(255,255,255, 0.3) 10px 10px, rgba(255,255,255, 0.2) 15px 15px, rgba(255,255,255, 0.1) 20px 20px, rgba(255,255,255, 0.05) 25px 25px;font-family: 'Martian Mono',-apple-system, Ariel, Verdana; 
+/* color: #c9ff23;  */
+overflow-y: auto;
+}
 ```
 
 <img  alt="image" src="https://github.com/user-attachments/assets/29ab1970-511d-4aa6-9b70-abdcfcc99f49" />
