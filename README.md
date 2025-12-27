@@ -3,7 +3,84 @@
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/29ab1970-511d-4aa6-9b70-abdcfcc99f49" />
 
+
+@podaac @nasa-jpl @developmentseed @landsat the background for my iss pages site is gone and the hosting changed along with the path to the file 
+`    background: url(https://landsat.gsfc.nasa.gov/wp-content/uploads/2013/12/San_Fran_old_432.jpg) no-repeat 0 0 fixed; 
+    background-size: cover;`\ `background: url(https://landsat.gsfc.nasa.gov/wp-content/uploads/2013/12/San_Fran_new_432.jpg) no-repeat 0 0 fixed;` @cityoflosangeles @nasa @blackgirlscode
+
+ ```
+html {
+font-size: 1rem;
+  background-size: 100%;
+
+
+        margin: 0px;
+      padding: 0px 0 20px 0px;
+      font-size:100%;
+
+    /* background-image: url("https://fgbg.art/static/svc_telephonePoles-7517ec4812af7eaa7b36b929dc045d95.gif"); sVC telephone poles */
+    /* background-image: url("https://fgbg.art/static/mvc_newYork-8a30ed825143d36b528b5f9826ed9fe3.gif"); spiderman mvc */
+    /*background-image: url("https://fgbg.art/static/motw_terry2-e7bbcf53ab92406bdbcb77a42546f5f1.gif");  terry bogard*/
+    /*  background-image: url("https://fgbg.art/static/mvc_drWilyBase-1d2ec60216b5dfe2cfd1df78ee3fa5ec.gif"); */
+     /* background-image: url("https://fgbg.art/static/mvc_newYork-8a30ed825143d36b528b5f9826ed9fe3.gif"); */
+     /* background-image: url("https://fgbg.art/static/aof3_library-3f491fd56f7a36828c14e5b3c02c2327.gif"); AoF3 Library */
+    /* background-image: url("https://fgbg.art/static/motw_downtown-cb25d556c94dde722c37d5cad1c924a6.gif"); dr wiley mvc */
+    /* background: url(https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/MOSHED-2024-3-4-13-41-24.jpg) no-repeat 0 0 fixed; */
+    background: url(https://landsat.gsfc.nasa.gov/wp-content/uploads/2013/12/San_Fran_old_432.jpg) no-repeat 0 0 fixed; 
+    background-size: cover;
+     line-height: 1.5;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    column-fill: balance;
+    word-break: break-all;
+    }
+
+
+```
+
+```
+
+section {
+
+  display : block;
+  flex-wrap: wrap;
+  border-radius: 0px 0px 0px 0px;
+  margin-top: 0px;
+width: 90vh; 
+padding: 0px;
+  margin-bottom: 40px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: -195px;
+  line-height: 1.5;
+/* opera does not like 'margin:20px auto' */
+/* background: #666; */
+border: 1px solid white;
+background: url(https://landsat.gsfc.nasa.gov/wp-content/uploads/2013/12/San_Fran_new_432.jpg) no-repeat 0 0 fixed;
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
+background-size: cover;
+margin-right: auto;
+margin-left: auto; 	
+/* background: url(https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01046/ids/edr/browse/rcam/RRF_1046_0759804806_506ECM_N0495338RHAZ02420_01_295J01_800.jpg) no-repeat 0 0 fixed; */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
+
+text-align:left; 
+/* part 2 of 2 centering hack */
+voice-family: "\"}\"";
+voice-family:inherit;
+
+
+box-shadow: rgba(255,255,255, 0.4) 5px 5px, rgba(255,255,255, 0.3) 10px 10px, rgba(255,255,255, 0.2) 15px 15px, rgba(255,255,255, 0.1) 20px 20px, rgba(255,255,255, 0.05) 25px 25px;font-family: 'Martian Mono',-apple-system, Ariel, Verdana; 
+/* color: #c9ff23;  */
+overflow-y: auto;
+}
+```
 
 <img src="https://private-user-images.githubusercontent.com/218409907/460834760-7ae09a51-3773-4df0-b299-2827b1df1397.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEzNTAwNzEsIm5iZiI6MTc2MTM0OTc3MSwicGF0aCI6Ii8yMTg0MDk5MDcvNDYwODM0NzYwLTdhZTA5YTUxLTM3NzMtNGRmMC1iMjk5LTI4MjdiMWRmMTM5Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyNFQyMzQ5MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMGMyNDBlMzJjNzUzMGM5ZTEzMDgwODVmMTJiMWQ0ZGM0YTdkY2MzZWQ4OTllZDRjODU5NDcxMTMyNmJkZGQ4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.E3DREq8_fXqmnuOAXD8Prr7E23fB1Rct0zqdUlWQIOE"/>
 
