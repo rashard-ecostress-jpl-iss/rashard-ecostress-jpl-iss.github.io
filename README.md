@@ -2,6 +2,10 @@
 
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/29ab1970-511d-4aa6-9b70-abdcfcc99f49" />
+
+
 @podaac @nasa-jpl @developmentseed @landsat the background for my iss pages site is gone and the hosting changed along with the path to the file 
 `    background: url(https://landsat.gsfc.nasa.gov/wp-content/uploads/2013/12/San_Fran_old_432.jpg) no-repeat 0 0 fixed; 
     background-size: cover;`\ `background: url(https://landsat.gsfc.nasa.gov/wp-content/uploads/2013/12/San_Fran_new_432.jpg) no-repeat 0 0 fixed;` @cityoflosangeles @nasa @blackgirlscode
@@ -77,9 +81,6 @@ box-shadow: rgba(255,255,255, 0.4) 5px 5px, rgba(255,255,255, 0.3) 10px 10px, rg
 overflow-y: auto;
 }
 ```
-
-<img  alt="image" src="https://github.com/user-attachments/assets/29ab1970-511d-4aa6-9b70-abdcfcc99f49" />
-
 
 <img src="https://private-user-images.githubusercontent.com/218409907/460834760-7ae09a51-3773-4df0-b299-2827b1df1397.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEzNTAwNzEsIm5iZiI6MTc2MTM0OTc3MSwicGF0aCI6Ii8yMTg0MDk5MDcvNDYwODM0NzYwLTdhZTA5YTUxLTM3NzMtNGRmMC1iMjk5LTI4MjdiMWRmMTM5Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyNFQyMzQ5MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMGMyNDBlMzJjNzUzMGM5ZTEzMDgwODVmMTJiMWQ0ZGM0YTdkY2MzZWQ4OTllZDRjODU5NDcxMTMyNmJkZGQ4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.E3DREq8_fXqmnuOAXD8Prr7E23fB1Rct0zqdUlWQIOE"/>
 
