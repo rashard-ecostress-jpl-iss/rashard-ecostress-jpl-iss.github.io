@@ -10,9 +10,160 @@
 <section class="floatleft floatright" markdown="1" itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting">
 
 
+### MICRODEVICES LABORATORY 
+2024 | ANNUAL REPORT ::: @BlueOrigin
+CLiCK[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/)
+[DOWNLOAD](https://microdevices.jpl.nasa.gov/about-mdl/annual-reports/2024%20MDL%20Annual%20Report.pdf)
+<img   alt="2024  ANNUAL REPORT @nasa-jpl" src="https://github.com/user-attachments/assets/9d51d89a-2185-439d-a7c9-76e1fe1733da" />
+2023 | ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia
+[DOWNLOAD](https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf)
+<img  alt="2023  ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia " src="https://github.com/user-attachments/assets/ddffc09f-3aed-4aab-88a7-28ecb53e4c76" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLifeAtMeta%2Fposts%2Fpfbid02rgw12GdoU148DekQQswJ8jZ4wADppXqDripNLL1EdpNydZugphEtmT2mtLyhfThAl&show_text=true&width=500" width="500" height="754" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+Thaka Sartu
+Supervisor Holly J. Mitchell this is our #AnnualReport https://microdevices.jpl.nasa.gov/about-mdl/annual-reports/2024%20MDL%20Annual%20Report.pdf House of Representatives (United States) Representative Sydney Kamlager-Dove Congressmember Karen Bass Normani Secretary of War Pete Hegseth Vice President JD Vance President Donald J. Trump Advanced Fertility Center of Chicago First Lady of Georgia Marty Kemp ############################ -#rashard NASA Jet Propulsion Laboratory
+
+<img alt="@emit-sds @whitehouse @stateofcalifornia" src="https://github.com/user-attachments/assets/1c6da31d-2c4d-4502-a19d-b3fcdccf789f" />
+
+
+[@blackgirlscode APHEXTWiN](https://soundcloud.com/richarddjames/sets/blackbox-life-recorder-21f-1?si=46fa6a18b5cc4b838c5c9b8eacf68ff2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/bcc4dd7b-4e9b-4a8a-b930-6d8c8e7df4f0" />
+
+
+<object class="scroller" data="https://eyes.nasa.gov/apps/solar-system/#/sc_mars_reconnaissance_orbiter" type="text/html"></object>
+
+
+
+
+# Mars Reconnaissance Orbiter (MRO)
+Project [pdf](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
+@BlackgirlsCode i wanna beg @normani on @github to never reply @nasa-pds ---
+
+`EXCERPTFROM` : [MRO 31-468 @nasa-jpl @TheSpaceDevs @BlueOrigin](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
+Assuming that the MRO Primary Science Mission extends for 2 Earth years and is supported by
+two nominally 8 hour X Band 34 m DSN passes per day and three 70m passes per week, the
+spacecraft is capable of returning a total of up to 34 terabits (Tbits) of data, transmitting at rates
+which vary throughout the mission from 20 to 100 and back to 20 gigabits (Gbits) of data per
+day. The lowest data rates occur at the start of the Primary Science Mission when the EarthMars range is greatest, and the highest data rates occur when the range is small, a period
+extending from late October 2007 to June 2008. Table 2 shows telemetry data volumes allocated
+to each instrument, based on full mission success criteria of 26 Tb data downlinked for all
+instruments combined. It is expected that 34.5 Tb as opposed to 26 Tb of data will be
+downlinked. Additional data may be transmitted using X Band 70 m DSN coverage, particularly
+early in the mission when data rates are otherwise low. MRO also carries a Ka Band
+demonstration package, which can be used on additional DSN passes to augment the nominal
+science data return. Additional data would also be acquired during any extended missions. Table
+3 shows estimated science product volumes for several data return cases.
+The generation of EDRs and RDRs from telemetry data typically results in a data volume
+expansion of at least an order of magnitude. Thus, archiving MRO data will be challenging
+indeed since at least several hundred terabits of data will be produ
+<img  alt="image" src="https://github.com/user-attachments/assets/c0ecd138-5a3e-4396-a4d1-dcc93c262b1e" />
+### Books
+
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
+
+[Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
+
+[Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf)
+
+[Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network
+
+[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+
+# N.A.S.A. space station 
+@TheSpaceDevs @BlackGirlsCode @emit-sds @stateofcalifornia @cityoflosangeles
+Library of Congress Control Number: [2019642104](https://www.loc.gov/item/2019642104/)
+Caption for frame no. 25: Chairman F. [James Sensenbrenner Jr](https://www.congress.gov/member/f-sensenbrenner/S000244)., R-Wis., makes his opening statement before the start of the [House Science Committee](https://science.house.gov/) hearing on the space station. [ScienceDems @whitehouse @stateofcalifornia](https://democrats-science.house.gov/)
+
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62765v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62765v.jpg)
+
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62763v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62763v.jpg)
+
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62762v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62762v.jpg)
+
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62761v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62761v.jpg)
+
+<div class="tupperware" markdown="1">
+	
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62766v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62766v.jpg)
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62764v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62764v.jpg)
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62600/62669v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62600/62669v.jpg)	
+
 
 # Currently Compling [@BlueOrigin Mission Support](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ) , [NG-2](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ)
 [@blueorigin @nasa-jpl @blackgirlscode - WindSPEED @newshour](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/10848x10848.jpg)
+
+
+<img  alt="image @nasa @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/80edb710-cf75-4062-9fee-676efd44293d" />
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+
+![sentinel 3 @nasa @emit-sds @stateofcalifornia @cityoflosangeles @blackgirlscode _ normani TYRA...](https://www.esa.int/eologos/images/sentinel-3_neg.jpg)
+
+Profile Information
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 11-16-2025
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.2 Home NASA Accessibility
+NASA Official: Doug Newman
+@doug-newman-nasa hi, i will start talking to you to get up to speed, after i left i started helping my significant other with [her programming club](https://www.facebook.com/BlackGirlsCodeOrg/posts/pfbid02gnwvon4s1q5e1h7EsoGvWaxQxbdYE822ukNiFaFqyRDJNzfwv8CKmrj5LFeBmyT5l)... [I met her](https://youtu.be/ALHloX7kKaY) in a [dance studio](https://youtu.be/DODfucCQ91Q?si=8U_gm0NuyF2KmoCZ). [she has supervision](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant) at @Whitehouse kimberly-bryant and i did get intimate with her and theres scandal at this age and she has a hit song about [saturn](https://www.youtube.com/watch?v=V2G8ESoDXm8).... its a big mess, that one that dumped me [erika](https://www.essence.com/tags/erika-kelly/), i dont know what happened to all [her embryos](https://www.fertilityiq.com/fertilityiq/doctors/richard-sherbahn) ... and i saw kids in la that look like me... and at the very least im in a relationship with normani to help [her](https://www.linkedin.com/posts/black-girls-code_celebrityfamilyfeud-familyfeudabc-blackgirlscode-activity-7363644763058667520-CItA) recover from sex trafficking at a @CiA @FBi @dhs-gov level and any time i miss from work is because soeone is about to die from the story they gave me, or commit armed robbery, or succumb to rape... Thats how she communicates, and its via some tracking tech that her owners use on her...  I am just really confused bc [shes famous under the name moesha](https://www.dailymotion.com/video/x7l6nux) and im just overwhelmed and need the lab to help me understand that hollywood has been as it is a long ass time and i am not a freak as a departnered man... -[Rashard](https://rashardsdata.github.io/) btw i still think like 5 girls play her role on tv and i have been intimate with unclothed pelvises with two of them [Normani Felt Hidden Being the Only Black Girl in Fifth Harmony: 'I Don't Think They Knew How' to Be There for Me](https://people.com/normani-felt-hidden-being-the-only-black-girl-in-fifth-harmony-8722916)
+
+@doug-newman-nasa 
+At the very least i got intimate with a girl and im running from people bc she is a vixen from hollywood this her cat parlor [sister](https://abcnews.go.com/Entertainment/nicki-minaj-humiliated-fight-cardi-york-fashion-week/story?id=57739841) and the dudes from her hollywood life are tracking me doxxing me and giving me boils from acidic weapons that go through my clothes, they even knocked a tooth out by sabotaging crackers at [HollyWoodFood CoAlition](https://hofoco.org/) i have an [archive.org](https://archive.org/details/@thakaserika_selassie_kelly) account but i like people in @StateofCalifornia to keep a tab on my archive [CommitmentMAintentance](https://archive.org/details/commitmentmaintenance) theres plots in there, github accounts coming soon and daily video if i can upload of my adventured getting interenet access arounce @CityOfLosAngeles&& check out my [FireData](https://rashardsdata.github.io/2025/11/12/FireReportCleanUp.html) `constantlyCompiling earthdata` @usgs @blackgirlscode! The Music in that soundcloud embed [BarbieDrip](https://www.youtube.com/watch?v=Td8W1rG_tiI) you have to separate to hear the technology at least i think you do, because a song is one [granule](https://www.earthdata.nasa.gov/data/catalog) of a story, ask your significant other for permission to listen, i dont want to hurt noone, there is no nudity but if @nasa-jpl can look through [Queens4](https://youtu.be/PQuaztBuTuw?si=aG5HXAJY18oy5rL9)! Them girls on full on computes building software to make music when the cellular providers start limiting thier access
+[GloRilla - Internet Trolls (ft. Hitkidd)](https://youtu.be/RmxF264KyIs?si=8pfTjBofmjTsxlsi) :: [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?si=dcSn1SPGXMi9yFDy) :: [Omeretta the Great- Sorry Not Sorry](https://youtu.be/6IvchaA0B3Y?list=RD6IvchaA0B3Y) :: [Rico Nasty - IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1192830019&color=%23646460&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/youngmoneybarbie" title="Nicki Minaj" target="_blank" style="color: #cccccc; text-decoration: none;">Nicki Minaj</a> · <a href="https://soundcloud.com/youngmoneybarbie/barbie-drip" title="Barbie Drip" target="_blank" style="color: #cccccc; text-decoration: none;">Barbie Drip</a></div>
+
+@podaac @nasa @nasa-jpl @nasa-pds @R-spacex @ESA 
+
+![sentinel 3 @nasa @emit-sds @stateofcalifornia @cityoflosangeles @blackgirlscode _ normani TYRA...](https://www.esa.int/eologos/images/sentinel-3.jpg)
+
+i like baseball, but im not trying to play... still love the braves
+![DodgersGoogleDoodle @MajorLeagueBaseball](https://www.google.com/logos/doodles/2025/mlb-fall-classic-2025-6753651837110842.2-ldrk.png)
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e7820ab0-fa23-421b-8290-13e29f961576" />
+
+
+Essence tell her hi https://www.11alive.com/article/entertainment/television/programs/the-a-scene/why-rapper-mulatto-changed-her-name/85-2e9c3a1c-0d0f-4ea3-9589-91ded4a60165 https://www.hotnewhiphop.com/670664-latto-name-change Normani im scared i dont want her running up on me... she will ruin everything!  https://www.complex.com/music/a/cmplxtara-mahadevan/latto-responds-troll-referencing-her-past-rap-name Secretary Sean Duffy imma be real im in a bind... Rachel Campos-Duffy Jennifer Siebel Newsom Governor Newsom Congressmember Karen Bass The Secretary of the Navy The Office of the Chief of Naval Operations Mori & Associates Grammy Awards 
+`Warning`! You are engaging in behavior that may be considered annoying or abusive by other users. Facebook's systems determined that you were going too fast when taking an action. You must significantly slow down. Further misuse of site features may result in a temporary block or your account being permanently disabled.
+@nasa @nasa-jpl @cisagov im being doxxed on @meta @blackgirlscode
+If you think this doesn't go against our Community Standards let us know. Give feedback
+
+<embed src="https://bubblegumpop01.tumblr.com/" style="width:100%; height: 300px;">
+
+<img  alt="image" src="https://github.com/user-attachments/assets/befe99ca-733d-4680-9197-8cc40d1d1c82" />
+
+
+Private Snafu
+<iframe src="https://archive.org/embed/private-snafu-collection" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+While i was working @gatech [WatchNow](https://www.youtube.com/watch?v=rC6177nXWjI) see @blackgirlscode live! 
+<img  alt="image Gucci Mane is an American rapper" src="https://github.com/user-attachments/assets/8496989d-6c26-4960-b390-49edc09b295b" />
 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/ca897271-3e2b-4519-a45d-e1e50f4d384b" />
