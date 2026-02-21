@@ -41,7 +41,7 @@ This branch is 111 [commits behind](https://github.com/rashard-ecostress-jpl-iss
 <img alt="image" src="https://github.com/user-attachments/assets/963e24a6-e500-4cf1-bf7b-fce0c6c2d058" />
 
 
-@github @nasa @nasa-jpl @la-county-isd this is a session that was haning at the library @cisa @nasa-pds @emit-sds @blackgirlscode 
+@github @nasa @nasa-jpl @la-county-isd this is a session that was haning at the library @cisa @nasa-pds @emit-sds @blackgirlscode [https://www.uahirise.org/ESP_081600_1980](https://www.uahirise.org/ESP_081600_1980) / [https://github.com/settings/sessions](https://github.com/settings/sessions) @TheSpaceDevs
 <img  alt="image" src="https://github.com/user-attachments/assets/b9de2818-5f3a-42d8-90c1-fb495f61aa71" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/839d3107-58b9-4d45-b954-617372f5869d" />
