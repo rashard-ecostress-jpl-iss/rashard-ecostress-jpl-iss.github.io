@@ -40,6 +40,26 @@ This branch is 111 [commits behind](https://github.com/rashard-ecostress-jpl-iss
 <img  alt="image" src="https://github.com/user-attachments/assets/a446257b-873f-41ad-a9bc-105436782ea6" />
 <img alt="image" src="https://github.com/user-attachments/assets/963e24a6-e500-4cf1-bf7b-fce0c6c2d058" />
 
+
+@github @nasa @nasa-jpl @la-county-isd this is a session that was haning at the library @cisa @nasa-pds @emit-sds @blackgirlscode 
+<img  alt="image" src="https://github.com/user-attachments/assets/b9de2818-5f3a-42d8-90c1-fb495f61aa71" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/839d3107-58b9-4d45-b954-617372f5869d" />
+
+Long Beach 205.154.246.79
+Last accessed on Feb 07, 2026
+Seen in US
+Device:
+Chrome on Windows
+
+Last location:
+Long Beach, California, United States
+
+Signed in:
+February 07, 2026
+Long Beach, California, United States
+
+
 ## Orbital Period
 @nasa-pds @la-county-isd so im doing helpdesk work and Saw that we had some photos and other data that got sent back ` 03-Feb-2026 20:46 ` around the end of [TheConjunction](https://www.jpl.nasa.gov/news/whats-mars-solar-conjunction-and-why-does-it-matter/). The image that i linked _`_ESP_090820_2085_ESP_090754_2085_RED.browse.png     18-Dec-2025_`_ made me want to dig into exactly how often we should get data back from the unit. [FileCreationTime](https://kodekloud.com/blog/file-creation-time-linux/) is a rusty subject so im just writing whats in my head and maybe what comes out on the keyboard will get me informed! My research lead me to a question on [StackExchange](https://space.stackexchange.com/questions/23262/what-is-the-mars-reconnaissance-orbiters-orbital-period) about [M_R_O's ORBiTAL period](https://en.wikipedia.org/wiki/Mars_Reconnaissance_Orbiter) the user quotes from wikipedia 
 ![https://eol.jsc.nasa.gov/Tools/img/OrbTutorImg4.gif](https://eol.jsc.nasa.gov/Tools/img/OrbTutorImg4.gif)
