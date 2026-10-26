@@ -45,6 +45,292 @@
 
 <img alt="image @ForAtlanta @CityOfLosAngeles @nasa @nasa-pds" src="https://github.com/user-attachments/assets/937c24d6-d617-4971-9c54-1ec702064f9b" />
 
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+
+<source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+
+<source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+
+<img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+
+</picture>
+
+* [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass\_\_-blue?style=social\&logo=X)](https://twitter.com/@RepKarenBass)
+* [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL\_\_-blue?style=social\&logo=X)](https://twitter.com/@NASAJPL)
+
+
+
+### Karen Bass VS Nithya Raman:
+
+[`WATCH` - _Who Should Be L.A.’s Mayor?_ @cityoflosangeles @la-county-isd](https://youtu.be/sH2CRsTVqrs?si=BdYxRgfbydL-ZgFW)
+[Councilmember.raman@lacity.org @nasa-jpl @eosdis-nasa](mailto:Councilmember.raman@lacity.org) // [Mayor Karen Bass](https://pahx.org/bios/bass-karen/)
+<img alt=" @datadesk @STATEOFCALiFORNiA @SACCOUNTY @CiTYOFLOSANGELES @latimes @newshour @usatoday @deptofwar @nasa-jpl @nasa image" src="https://github.com/user-attachments/assets/d135b59e-c727-483e-afc7-d668323062ae" />
+
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+
+[Veteran of the Psychic Wars · Blue Oyster Cult](https://youtu.be/jUwh-C5w7II?list=RDjUwh-C5w7II) // [Must Be Dues · Melba Moore](https://youtu.be/Eu8K8LEaUy0?list=RDjUwh-C5w7II)  // [Trap Or Die · Young Jeezy · Bun B](https://youtu.be/SzHCdn7igPk?list=RDSzHCdn7igPk)  // [Blessings · Visionaries](https://youtu.be/I2zWUFlfWWM) // [Acid Raindrops · People Under The Stairs](https://youtu.be/UcKDx4cmvio?list=RDUcKDx4cmvio) // [Never Fallin' · Living Legends](https://youtu.be/eGv_ZJ5dSPc?list=RDeGv_ZJ5dSPc) // [Moment Of Truth · Gang Starr](https://youtu.be/Rr46FS7tkk4?list=RDeGv_ZJ5dSPc) // [Love & Appreciate · Murs](https://youtu.be/UYay1c2Fl0o?si=0-_2J0SIFATsYUuD)
+
+---
+
+
+
+[karenbass.com/](https://www.karenbass.com/)
+![@whitehouse @nasa-pds @nasa-jpl https://run.imgix.net @isro @esa @ukspaceagency wee are I a mayor election cycle, stay in touch It can effect the lab vastly! hi @blackgirlscode hi @howard-university-web-services ](https://run.imgix.net/a90ac9ef-afc5-45cb-9070-17e5ee6fc6d5/888e84f5-86a9-497b-a27a-79c561579b70/888e84f5-86a9-497b-a27a-79c561579b70.png?ixlib=js-3.8.0&bri=0&con=0&sat=0&high=0&shad=0&usm=0&rect=0%2C0%2C1436%2C304&auto=compress%2Cformat&fit=fillmax&w=640&q=75&s=6cf68b220d3cff5a79616afa1aeaa8d7) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/1caccb52-78a1-4b82-ac05-f0797685f804" />
+
+# burnedbybass.com [link](https://burnedbybass.com/)
+[@LA-County-isD @CiTYOFLOSANGELES @SACCOUNTY @StateOfCalifornia https:/`burnedbybass.com`/](https://burnedbybass.com/)
+
+[<video controls loading="lazy" poster="https://www.dailynews.com/wp-content/uploads/2026/05/LDN-Z-MAYOR-DEBATE-NBC4.jpg" src="https://framerusercontent.com/assets/x7m1zD12q81zwZHVSRbX8hVH8.mp4" />](https://framerusercontent.com/assets/x7m1zD12q81zwZHVSRbX8hVH8.mp4)
+
+
+
+[@nasa-jpl](https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps) hi if I remember correctly I have to vote to keep my `ActiveMission` status and I did [@CityOFLosanGeles](https://mayor.lacity.gov/) [_Karen Bass_](https://laist.com/brief/news/politics/nithya-raman-could-shake-up-los-angeles-olympics-heres-how) [[1](https://share.google/aimode/8RgP2H9Df8UsEADAe)] , [Mayoral Candiate Nithyia](https://share.google/aimode/NlDy4kd8MgneimqLk) I did my prep for another year in LA with @nasa-pds / @eosdis-nasa @emit-sds [@nasa-jpl](https://pds-geosciences.wustl.edu/dataserv/mars.html) hi [@blackgirlscode](https://x.com/BlackGirlsCode) for those of you with internships via [@nasa](https://www.nasa.gov/glenn/) , [@whitehouse](https://www.whitehouse.gov/live/) or whatevz remember to vote [@latimes @datadesk - Ethics complaint filed over ads falsely portraying Raman promoting homeless camps](https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps) // [LA mayor's race: AI videos supporting Spencer Pratt shake up political playbook](https://abc7.com/post/los-angeles-mayors-race-ai-videos-supporting-spencer-pratt-shake-political-playbook/19127203/) // [Bass says Pratt AI ads in LA mayor race ‘taking on a violent trend’](https://thehill.com/homenews/campaign/5875724-karen-bass-spencer-pratt-la-mayor-race-ads/) // [](https://burnedbybass.com/?gad_source=1&gad_campaignid=24336717575&gbraid=0AAAABEySbvXkQqBgQYBXc-rieW3bZn26S&gclid=EAIaIQobChMI2vj24dnYlwMVxzhECB1ZpAaZEAAYASAAEgLNdfD_BwE) //[Los Angeles mayoral election cnn.com](https://www.cnn.com/election/2026/results/los-angeles-mayor)
+
+![https://media.cnn.com/api/v1/images/stellar/prod/la-mayor-ai-images-clean-thumb.png?c=9x16&q=f_webp](https://media.cnn.com/api/v1/images/stellar/prod/la-mayor-ai-images-clean-thumb.png?c=9x16&q=f_webp) 
+
+![ @bbc https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/330px-CNN.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/330px-CNN.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail) 
+
+[@cityoflosangeles https://www.instagram.com/p/DJUkk0jy7O5/?utm_source=ig_web_button_share_sheet](https://www.instagram.com/p/DJUkk0jy7O5/?utm_source=ig_web_button_share_sheet)
+<img   alt="images (1)" src="https://github.com/user-attachments/assets/92cba08a-37b9-4278-8a0d-8238de3ace6a" />
+
+[@CityOfLosAngeles @instagram @deptofwar @nasa-jpl /DY2UuGtG-sp/](https://www.instagram.com/p/DY2UuGtG-sp/)
+<img   alt="images" src="https://github.com/user-attachments/assets/e4fd6c14-c586-429b-a86e-2aec4a1fe370" />
+<img   alt="imageimage @nasa-jpl https://www.instagram.com/p/DY2UuGtG-sp (https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps) hi if I remember correctly I have to vote to keep my `ActiveMission` status and I did [@CityOFLosanGeles](https://mayor.lacity.gov/) [_Karen Bass_](https://laist.com/brief/news/politics/nithya-raman-could-shake-up-los-angeles-olympics-heres-how) [[1](https://share.google/aimode/8RgP2H9Df8UsEADAe)] , [Mayoral Candiate Nithyia](https://share.google/aimode/NlDy4kd8MgneimqLk) I did my prep for another year in LA with @nasa-pds / @eosdis-nasa @emit-sds [@nasa-jpl](https://pds-geosciences.wustl.edu/dataserv/mars.html) hi [@blackgirlscode](https://x.com/BlackGirlsCode) for those of you with internships via [@nasa](https://www.nasa.gov/glenn/) , [@whitehouse](https://www.whitehouse.gov/live/) or whatevz remember to vote [@latimes @datadesk - Ethics complaint filed over ads falsely portraying Raman promoting homeless camps](https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps) // [LA mayor's race: AI videos supporting Spencer Pratt shake up political playbook](https://abc7.com/post/los-angeles-mayors-race-ai-videos-supporting-spencer-pratt-shake-political-playbook/19127203/) // [Bass says Pratt AI ads in LA mayor race ‘taking on a violent trend’](https://thehill.com/homenews/campaign/5875724-karen-bass-spencer-pratt-la-mayor-race-ads/) // [](https://burnedbybass.com/?gad_source=1&gad_campaignid=24336717575&gbraid=0AAAABEySbvXkQqBgQYBXc-rieW3bZn26S&gclid=EAIaIQobChMI2vj24dnYlwMVxzhECB1ZpAaZEAAYASAAEgLNdfD_BwE) //[Los Angeles mayoral election cnn.com](https://www.cnn.com/election/2026/results/los-angeles-mayor) " src="https://github.com/user-attachments/assets/be64b058-dc14-423a-87f8-281c8489d97d" />
+
+
+#### July 14th,2026
+<img   alt="image [@nasa-jpl](https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps) hi if I remember correctly I have to vote to keep my `ActiveMission` status and I did [@CityOFLosanGeles](https://mayor.lacity.gov/) [_Karen Bass_](https://laist.com/brief/news/politics/nithya-raman-could-shake-up-los-angeles-olympics-heres-how) [[1](https://share.google/aimode/8RgP2H9Df8UsEADAe)] , [Mayoral Candiate Nithyia](https://share.google/aimode/NlDy4kd8MgneimqLk) I did my prep for another year in LA with @nasa-pds / @eosdis-nasa @emit-sds [@nasa-jpl](https://pds-geosciences.wustl.edu/dataserv/mars.html) hi [@blackgirlscode](https://x.com/BlackGirlsCode) for those of you with internships via [@nasa](https://www.nasa.gov/glenn/) , [@whitehouse](https://www.whitehouse.gov/live/) or whatevz remember to vote [@latimes @datadesk - Ethics complaint filed over ads falsely portraying Raman promoting homeless camps](https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps) // [LA mayor's race: AI videos supporting Spencer Pratt shake up political playbook](https://abc7.com/post/los-angeles-mayors-race-ai-videos-supporting-spencer-pratt-shake-political-playbook/19127203/) // [Bass says Pratt AI ads in LA mayor race ‘taking on a violent trend’](https://thehill.com/homenews/campaign/5875724-karen-bass-spencer-pratt-la-mayor-race-ads/) // [](https://burnedbybass.com/?gad_source=1&gad_campaignid=24336717575&gbraid=0AAAABEySbvXkQqBgQYBXc-rieW3bZn26S&gclid=EAIaIQobChMI2vj24dnYlwMVxzhECB1ZpAaZEAAYASAAEgLNdfD_BwE) //[Los Angeles mayoral election cnn.com](https://www.cnn.com/election/2026/results/los-angeles-mayor)" src="https://github.com/user-attachments/assets/266a8c51-c663-4ab6-b56e-e038d88347a5" />
+
+
+![https://scpr.brightspotcdn.com/3d/90/a00620904650ba75eb573b46106b/laistlogo-black.svg](https://scpr.brightspotcdn.com/3d/90/a00620904650ba75eb573b46106b/laistlogo-black.svg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f88686b9-9276-4c76-bb0a-6525949dc9c0" />
+
+<iframe src="https://archive.org/embed/heavy.-metal.-1981.1080p.-blu-ray.x-264.-yify" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9fdb6444-44a5-4ae6-8ce3-0d2955e8ff0b" />
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/77e44039-3ba6-401e-91c0-abce204118ce" />
+
+[San Juan Capistrano, CA, USA](https://worldview.earthdata.nasa.gov/?v=-120.28865546369173,32.35939751783922,-116.17950782056576,34.381868623440276&as=2026-10-06-T00%3A00%3A00Z&ae=2026-10-16-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),DoS_International_Boundaries(hidden),Admin_Boundaries(hidden),Coastlines_15m,VIIRS_NOAA21_CorrectedReflectance_BandsM3-I3-M11,VIIRS_NOAA21_CorrectedReflectance_BandsM11-I2-I1,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&ab=on&s=-117.6628,33.5019&t=2026-10-16-T22%3A30%3A10Z)
+<img  alt="image" src="https://github.com/user-attachments/assets/8c1217b0-ed7a-4e25-b81f-a17bbf8adb98" />
+
+<img  alt="LC09_L1TP_041036_20261016_20261016_02_T1_TIR" src="https://github.com/user-attachments/assets/ddef0762-9682-4de0-8751-edb8425cf63d" />
+
+![https://eros.usgs.gov/sites/eros.usgs.gov/themes/custom/eros_external/media/earthshots/EarthshotsLogo.png](https://eros.usgs.gov/sites/eros.usgs.gov/themes/custom/eros_external/media/earthshots/EarthshotsLogo.png)
+
+//// Satellite images reveal how people and nature change the Earth's landscape over time. We invite you to explore more than 100 unique locations around the world where satellites reveal the stories as the lands change. Click a location on the globe [https://eros.usgs.gov/earthshots](https://eros.usgs.gov/earthshots)
+<img  alt="image" src="https://github.com/user-attachments/assets/400be61e-8f0d-4089-bf13-73358f2adbbf" />
+
+[worldview.earthdata.nasa.gov/?v=-154.3182122552031,0.37286535391440623,-88.2390876219372,37.54237296012646&as=2026-10-06-](https://worldview.earthdata.nasa.gov/?v=-154.3182122552031,0.37286535391440623,-88.2390876219372,37.54237296012646&as=2026-10-06-T00%3A00%3A00Z&ae=2026-10-16-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),DoS_International_Boundaries(hidden),Admin_Boundaries(hidden),Coastlines_15m(hidden),VIIRS_NOAA20_DayNightBand,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&al=true&ab=on&t=2026-10-16-T00%3A00%3A00Z) /////// [Shake Movie for M5.2 Julian earthquake](https://www.usgs.gov/media/videos/shake-movie-m52-julian-earthquake)
+<img  alt="nasa-worldview-2026 OCT 06-to-2026 OCT 16" src="https://github.com/user-attachments/assets/8c1e4fa0-e43b-43b8-8b5a-3af8af8576c7" />
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
+
+
+[ firms.modaps. @eosdis .nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,terra_crc,earth;@-117.653,33.478,13.138z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,terra_crc,earth;@-117.653,33.478,13.138z)
+<img  alt="image" src="https://github.com/user-attachments/assets/70575e29-fb2b-44f1-83d3-f7a424019f07" />
+
+A look at the footprint of the Norte Fire and wind forecasts [@nasa-jpl https://youtu.be/zDNwlpD0zsk?si=iQwsEwOW95vtUPot](https://youtu.be/zDNwlpD0zsk?si=iQwsEwOW95vtUPot)
+<img  alt="image" src="https://github.com/user-attachments/assets/d3ddc6ca-3a3c-498c-921a-9736632106d7" />
+
+[@cItyOfloSaNGELES Lafd.org/about/about-lafd/contact @la-county-isd](https://lafd.org/about/about-lafd/contact) @cbs-news-data 
+Fire Temperature key:1 - Warm fire/2 - Very warm fire/3 - Hot fire/4 - Very hot fire/5 - Burn scars/6 - Clear sky: land/7 - Clear sky: water/snow/night/8 - Water clouds/9 - Ice clouds [star.nesdis.noaa.gov/goes/sector_band.php?sat=G18&sector=psw&band=FireTemperature&length=24](https://www.star.nesdis.noaa.gov/goes/sector_band.php?sat=G18&sector=psw&band=FireTemperature&length=24)
+![https://www.star.nesdis.noaa.gov/goes/images/colorbars/ColorBar450FireTemp.png](https://www.star.nesdis.noaa.gov/goes/images/colorbars/ColorBar450FireTemp.png) 
+
+
+fixed
+<img alt="G18_sector_psw_FireTemperature_12fr_20261016-1827" src="https://github.com/user-attachments/assets/4d723bfd-69e6-437e-8980-d25cdf1e0f64" />
+
+
+[@EOSDIS-NASA firms.modaps.eosdis.nasa.gov/usfs/map/#m:advanced;d:2026-10-14..2026-10-15,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,active-ca,active-usa,fire-perimeter,countries,aqua_srb721,earth;@-117.59,33.20,9.43z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#m:advanced;d:2026-10-14..2026-10-15,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,active-ca,active-usa,fire-perimeter,countries,aqua_srb721,earth;@-117.59,33.20,9.43z)
+<img alt="FIRMS_2026-10-14_2026-10-15,24hrs @-117 59,33 20,9 43z" src="https://github.com/user-attachments/assets/9e8387fe-0b6a-4bb7-a2ec-a84b6e032101" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/0213ec10-c560-4ab9-94dd-ce188ad48daf" />
+
+[@CITYOFLOSANGELES -firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,aqua_crc,earth;@-117.5,33.6,8.7z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,aqua_crc,earth;@-117.5,33.6,8.7z) 
+
+<img   alt="FIRMS_24hrs,24hrs @-117 5,33 6,8 7z" src="https://github.com/user-attachments/assets/a8b16cc7-215e-49b9-8738-e1b366b78ad2" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/89ab782e-44b0-44f5-870b-f876dead0c38" />
+
+### How to Use @USGS EarthExplorer to Download Imagery
+By - [Earth Resources Observation and Science (EROS) Center usgs.gov/centers/eros @cITYoFlOSaNGELES @LA-COUNTY-ISD @NASA-JPL](https://www.usgs.gov/centers/eros)
+July 17, 2026
+
+@ForAtlanta is [Lana](https://www.tiktok.com/@lanajharris/video/7496589297793994026?lang=en) perms here ? She said "Out HEre in @StateofCalifornia" in a broadcast
+[usgs.gov/media/videos/how-use-usgs-earthexplorer-download-imagery](https://www.usgs.gov/media/videos/how-use-usgs-earthexplorer-download-imagery) [@nasa-jpl Our first time visiting NASA jet propulsion laboratory near LA. A MUST SEE!!](https://youtube.com/shorts/USuo_zOnvck?si=IWgpdLN2JxiJTbdp)
+<img  alt="image" src="https://github.com/user-attachments/assets/a51358d0-bca2-4c61-a380-e659de2daaa6" />
+
+
+![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+## Rashard Kelly 
+MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
+
+
+[@ForAtlanta Royal Absurdities Episode 3: Tip's Birthday @nasa-pds](https://youtu.be/DOxsq0HcqE0?t=1)
+
+
+<svg class="gradient-text" id="headerMargins" width="50%" height="50%" viewBox="0 0 508.204 141.732" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<path d="M91.991 104.699c1.576 5.961 4.119 8.266 8.613 8.266 4.659 0 7.102-2.799 7.102-8.266V3.2h29.184v101.499c0 14.307-1.856 20.506-9.11 27.762-5.228 5.229-14.871 9.271-27.047 9.271-9.837 0-19.25-3.256-25.253-9.27-5.263-5.273-8.154-10.689-12.672-27.764L44.9 37.033c-1.577-5.961-4.119-8.265-8.613-8.265-4.66 0-7.103 2.798-7.103 8.265v101.5H0v-101.5C0 22.727 1.857 16.527 9.111 9.271 14.337 4.044 23.981 0 36.158 0c9.837 0 19.25 3.257 25.253 9.27 5.263 5.273 8.154 10.689 12.672 27.764zm386.047 33.834L444.334 33.096c-.372-1.164-.723-2.152-1.263-2.811-.926-1.127-2.207-1.719-3.931-1.719-1.723 0-3.004.592-3.931 1.719-.539.658-.891 1.646-1.262 2.811l-33.703 105.437h-30.167l36.815-115.177c1.918-6 4.66-11.094 8.139-14.488C421.002 3.047 428.038 0 439.141 0s18.14 3.047 24.109 8.867c3.479 3.395 6.221 8.488 8.14 14.488l36.814 115.177zm-149.16 0c19.12 0 28.446-4.062 35.814-11.389 8.153-8.105 12.053-16.973 12.053-30.213 0-11.699-4.283-22.535-10.804-29.019-8.526-8.479-19.116-11.151-36.384-11.151l-24.187-.001c-9.242 0-12.925-1.117-15.839-3.98-2.001-1.964-2.939-4.885-2.939-8.328 0-3.559.857-7.074 3.303-9.475 2.171-2.131 5.13-3.109 10.816-3.109h69.903V3.2H306.05c-19.12 0-28.445 4.063-35.814 11.389-8.152 8.105-12.053 16.972-12.053 30.212 0 11.701 4.283 22.536 10.804 29.019 8.527 8.479 19.116 11.152 36.384 11.152l24.188.002c9.242 0 12.925 1.115 15.839 3.979 2.001 1.965 2.939 4.885 2.939 8.328 0 3.559-.857 7.074-3.302 9.475-2.172 2.131-5.131 3.109-10.817 3.109h-72.094l-27.651-86.509c-1.918-6-4.66-11.094-8.139-14.488C220.363 3.047 213.327 0 202.224 0s-18.14 3.047-24.108 8.867c-3.48 3.395-6.221 8.488-8.139 14.488l-36.815 115.177h30.166l33.704-105.437c.372-1.164.723-2.152 1.263-2.811.926-1.127 2.208-1.719 3.931-1.719s3.004.592 3.931 1.719c.54.658.891 1.646 1.262 2.811l33.704 105.437z" fill="#1E90FF"/></svg>
+
+
+![https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Overview_HD.png](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Overview_HD.png) 
+
+
+[4 jpl water @La-County-iSD @nasa @deptofwar](https://science.jpl.nasa.gov/division/earth-science/water-and-ecosystems/) ////// [@nasa-jpl fire.ca.gov/what-we-do/fire-resource-assessment-program/gis-mapping-and-data-analytics](https://www.fire.ca.gov/what-we-do/fire-resource-assessment-program/gis-mapping-and-data-analytics) ////// 
+[cityofsouthgate.org/files/sharedassets/public/v/1/government/departments/public-works/documents/2021-south-gate-water-and-sewer-standard-specifications.pdf](https://www.cityofsouthgate.org/files/sharedassets/public/v/1/government/departments/public-works/documents/2021-south-gate-water-and-sewer-standard-specifications.pdf) ///// [January 2025 Windstorm and Critical Fire Events Bi-Weekly Emergency
+Contracts Report @nasa-jpl @la-county-isd @cbs-news-data @nbcnews assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/2af2e449-e0a4-4ce5-a9c9-c3376c731929/Agenda%20102026_links.pdf#page=27](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/2af2e449-e0a4-4ce5-a9c9-c3376c731929/Agenda%20102026_links.pdf#page=27) @Nasa-giss hi its [rashard](https://rashardikelly.github.io/) [Andrew @deptofwar @nasa](https://science.gsfc.nasa.gov/sci/bio/andrew.feldman) needs to update The [Los Angeles Board OF Supervisors @la-county-isd](https://bos.lacounty.gov/) on his work locally @nasa-jpl  ![https://www.lavote.gov/Image/logo.png](https://www.lavote.gov/Image/logo.png)
+
+![https://science.jpl.nasa.gov/media/images/Word_cloud_scientists_keywords_20210209_v3.original.jpg](https://science.jpl.nasa.gov/media/images/Word_cloud_scientists_keywords_20210209_v3.original.jpg) 
+
+
+<img alt="586787943-9675795c-506c-455d-8cb6-d7dd3fa6b834" src="https://github.com/user-attachments/assets/8d4cf77d-0378-446c-908e-c179d1e32220" />
+
+`FRONTPAGE` [thakarashard.github.io/ricothaka/ @nasa @cityoflosangeles ](https://thakarashard.github.io/ricothaka/)
+<img  alt="586788407-7da4ad9d-24da-40a9-93be-44cdc409c421" src="https://github.com/user-attachments/assets/ecf572e8-e965-43a2-806d-5d3680a3be00" />
+
+
+
+// [Stretch & Bobbito (Hot 97) April 21,1996 (X-Men)](https://youtu.be/UW9JxiqoWjw?t=4316)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Firefighters struggle with staffing, equipment shortages amid record wildfire season: &quot;We're running thin&quot; https://t.co/ENZ5Abt3af</p>&mdash; CBS Mornings (@CBSMornings) <a href="https://x.com/CBSMornings/status/2103877256460251626?ref_src=twsrc%5Etfw">September 26, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+<iframe src="https://archive.org/embed/screen-recording-2025-01-22-3.01.40-pm" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+### Ice Cube - Opening for Guns N' Roses at The Rose Bowl! Pasadena, CA 9/5/2026
+[WATCH - youtu.be/vUXK6ZJ71I4?t=1438](https://youtu.be/vUXK6ZJ71I4?t=1438)
+<img  alt="image" src="https://github.com/user-attachments/assets/8cdcbb4d-16a4-443a-8836-64c1c64af49a" />
+
+## Reclaiming Home: 
+Black Altadena Rebuilds [`WATCH` - youtu.be/B8p-yvt5F7I?si=FXZUi1Y383S4dlAv](https://youtu.be/B8p-yvt5F7I?si=FXZUi1Y383S4dlAv)
+@nasa @nasa-pds @nasa-jpl @nasa-develop @la-county-isd @CiTYOFLOSANGELES _@Blackgirlscode_
+<img  alt="image" src="https://github.com/user-attachments/assets/cf1435a0-89dc-42e4-8dd7-5a75399ac5de" />
+
+[@emergingcoders bubblegumpop01.tumblr.com/post/792164405993521152/prd-oas-institution-detail-for-podaac](https://bubblegumpop01.tumblr.com/post/792164405993521152/prd-oas-institution-detail-for-podaac)
+<img alt="image" src="https://github.com/user-attachments/assets/ce0f0032-6375-4592-a1ec-390cf2d5c10f" />
+
+# Nitrogen dioxide
+WHO Guidelines for Indoor Air Quality: Selected Pollutants.
+[ncbi.nlm.nih.gov/books/NBK138707/](https://www.ncbi.nlm.nih.gov/books/NBK138707/)
+
+# TEMPO gridded `formaldehyde` total column V02 ([NRT](https://nrt3.modaps.eosdis.nasa.gov/)) (PROVISIONAL)
+[TEMPO_HCHO_L3_NRT](https://www.earthdata.nasa.gov/data/projects/lance)
+>Atmospheric Science Data Center (ASDC)
+
+_Wildland Fires Burn Across Oregon, Washington, and British Columbia_ - [Link](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildland-fires-burn-across-oregon-washington-british-columbia)
+
+[worldview.earthdata.nasa.gov/?v=-129.93518487631988,21.9646545355755,-74.43580297153181,59.71063185410571&z=4&ias=true&l=Reference_Labels_15m,Coastlines_15m,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,TEMPO_L3_Formaldehyde_Vertical_Column&lg=true&l1=Reference_Labels_15m,Coastlines_15m,TEMPO_L3_Formaldehyde_Vertical_Column&lg1=true&ca=false&cv=98&t=2026-08-06-T20%3A00%3A59Z&t1=2026-07-30-T20%3A00%3A59Z](https://worldview.earthdata.nasa.gov/?v=-129.93518487631988,21.9646545355755,-74.43580297153181,59.71063185410571&z=4&ias=true&l=Reference_Labels_15m,Coastlines_15m,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,TEMPO_L3_Formaldehyde_Vertical_Column&lg=true&l1=Reference_Labels_15m,Coastlines_15m,TEMPO_L3_Formaldehyde_Vertical_Column&lg1=true&ca=false&cv=98&t=2026-08-06-T20%3A00%3A59Z&t1=2026-07-30-T20%3A00%3A59Z)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/dbaa7736-9a29-47b2-aca7-501408d098c8" />
+
+@eosdis-nasa @nasa-openscapes hi i made a video @nasa-jpl watch the formaydyhyde spread across the continent from the wildfires ... who knows what its doing but the property controllers using [crowd control chemicals](https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/riot-control-agents.html) may be using this info to make more painful tools
+
+[<video controls  poster="https://github.com/user-attachments/assets/c2f81e87-e653-4b31-8e91-c5cfdac7e81f" src="https://ia601505.us.archive.org/28/items/longbeach_202605/Formaldyhyde_FROM_WiLDFiRE_watch_ItSPREAD_BetweenAUG3_6th_Virtiserv_LANA_HOT97Recording%202026-08-07%20153202.mp4" />](https://ia601505.us.archive.org/28/items/longbeach_202605/Formaldyhyde_FROM_WiLDFiRE_watch_ItSPREAD_BetweenAUG3_6th_Virtiserv_LANA_HOT97Recording%202026-08-07%20153202.mp4)
+
+accessing wildfire data gor kml mapping 
+
+[<video controls src="https://archive.org/download/longbeach_202605/WildfireData_GoogleEarthFreeTrierLatrice_Virtiserv_RASHARDNASAJPLScreenRecording%202026-08-07%20151226SPACEBEACHLONGBEACH8_7_26.mp4" />](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005574/gws.mp4)
+
+
+[@cdcgov github.com/eosdis-nasa](https://github.com/eosdis-nasa)
+
+<img alt="image" src="https://github.com/user-attachments/assets/8313d336-0345-4b27-9d4f-b2c1550b92b7" />
+
+-- *old*
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c2f81e87-e653-4b31-8e91-c5cfdac7e81f" />
+
+
+
+# "The Whole World Is On Fire": The Global [Wildfire Outbreak](https://ecostress.jpl.nasa.gov/wildfire_gallery)
+@howard-university-web-services 
+[WATCH - youtube.com/watch?v=K45NFimZq1Q](https://www.youtube.com/watch?v=K45NFimZq1Q)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/88a4ab8a-6038-436a-b9b5-9c3db21920fe" />
+
+
+![https://epic.gsfc.nasa.gov/archive/natural/2026/08/04/jpg/epic_1b_20260804212011.jpg](https://epic.gsfc.nasa.gov/archive/natural/2026/08/04/jpg/epic_1b_20260804212011.jpg)
+
+[ATHARA - https://hydroviewer.geoglows.org/#lon=38.90&lat=16.24&zoom=11.00&definition=](https://hydroviewer.geoglows.org/#lon=38.90&lat=16.24&zoom=11.00&definition=) // [Eritrea, Africa's Hermit Kingdom - in a Nutshell](https://suetravels.com/africa/eritrea/eritrea-africas-hermit-kingdom-in-a-nutshell/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2bc6d6ab-bd38-43bc-bd2b-66404042e3f4" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/0b9c53cb-e79f-4283-9fe5-075040cf1ffb" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7cd0386b-0d93-4594-8b37-2a9e94ef2a2c" />
+
+## GRACE FO Soil Moisture Within Continental United States: Monitoring Drought
+[ReadMore](https://svs.gsfc.nasa.gov/5574/) 
+
+_Gravity Recovery and Climate Experiment (GRACE)_ [info @nasa](https://sealevel.nasa.gov/missions/grace)
+[ice loss](https://svs.gsfc.nasa.gov/31166/)
+[<video controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005574/gws.01000_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005574/gws.mp4" />](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005574/gws.mp4)
+
+
+[aviris.jpl.nasa.gov/](https://aviris.jpl.nasa.gov/)   //// [@nasa whats up with this domain @la-county-isd web.archive.org/web/20201027205042/https://wildfire.jpl.nasa.gov/](https://web.archive.org/web/20201027205042/https://wildfire.jpl.nasa.gov/)
+@nasa-jpl i see you guys had to be quiet about the fire work, 
+[NASA/Forest Service Maps Aid Fire Recovery](https://www.jpl.nasa.gov/news/nasaforest-service-maps-aid-fire-recovery/)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/834e8a98-bc8c-408f-bfce-809a5395eb46" />
+
+
+[@landsat @doug-newman-nasa](https://earth.google.com/web/@40.81342011,-109.31582187,3462.59654902a,4401193.2714361d,35y,0h,0t,0r/data=CgRCAggBMikKJwolCiExSHE3OHhFSlJpbXplX0ZKczVnNnFwcEZmSWctWkEzd0cgAToDCgEwQgIIAEoHCKmTzwMQAQ)
+<img  alt="image" src="https://github.com/user-attachments/assets/f5ba72f4-f09c-4b55-af32-119b6753d91d" />
+
+[epic.gsfc.nasa.gov/archive/natural/2026/08/04/jpg/epic_1b_20260804212011.jpg](https://epic.gsfc.nasa.gov/archive/natural/2026/08/04/jpg/epic_1b_20260804212011.jpg)
+<img  alt="image" src="https://github.com/user-attachments/assets/8c40eb93-08d0-458f-9004-b12dfeeb33a5" />
+
+@whitehouse [worldview.earthdata.nasa.gov/?v=-142.89184924103756,18.231557153843998,-87.88554988209039,59.05384221268531&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&s=-118.2428,33.9242&t=2026-08-07-T20%3A39%3A00Z](https://worldview.earthdata.nasa.gov/?v=-142.89184924103756,18.231557153843998,-87.88554988209039,59.05384221268531&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&s=-118.2428,33.9242&t=2026-08-07-T20%3A39%3A00Z)
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
+<img alt="image" src="https://github.com/user-attachments/assets/91e9f128-06e2-43aa-bfe1-162ff3852d9b" />
+
+<img alt="image @nasa-jpl @nasa-pds @blackgirlscode  " src="https://github.com/user-attachments/assets/19a4cfd1-54ec-4dc8-b8f6-2b847affa325" />
+
+
+@nasa-jpl @nasa-pds @blackgirlscode 
+@emergincoders @[lanajharris@gmail.com](lanajharris@gmail.com) @chloe.bailey@gmail.com @letschat@virtiserv.com @[normani@fifthharmonyofficial.com](normani@fifthharmonyofficial.com) @[Normaniofficial@outlook.com](Normaniofficial@outlook.com) yo I got some real ass work rn . . . @[info@hot97.com](info@hot97.com) can lana help me get my email working ? The gaurds at the gate dont know those things for security reasons I guess @[HollyJMitchell@bos.lacounty.gov](mailto:HollyJMitchell@bos.lacounty.gov) and I know some of those girls was wearing my badge and may have made movies etc and its the least they can do &&& [https://play.google.com/store/apps/details?id=gov.nasa.jpl.android.spacetime&hl=en_US](https://play.google.com/store/apps/details?id=gov.nasa.jpl.android.spacetime&hl=en_US) &&& [keishaforgovernor@gmail.com](mailto:keishaforgovernor@gmail.com) [https://play.google.com/store/apps/details?id=gov.nasa.jpl.spaceimages.android&hl=en_US](https://play.google.com/store/apps/details?id=gov.nasa.jpl.spaceimages.android&hl=en_US) && [district5@longbeach.gov](district5@longbeach.gov) [https://play.google.com/store/apps/details?id=gov.nasa.jpl.spacecraftAR&hl=en_US](https://play.google.com/store/apps/details?id=gov.nasa.jpl.spacecraftAR&hl=en_US) && [ellefeatures@elleuk.com](ellefeatures@elleuk.com) [https://apps.apple.com/us/app/spot-the-station/id6449235044](https://apps.apple.com/us/app/spot-the-station/id6449235044) + [https://play.google.com/store/apps/details?id=gov.nasa.hq.SpotTheStation&hl=en_US](https://play.google.com/store/apps/details?id=gov.nasa.hq.SpotTheStation&hl=en_US)
+
+<img  alt="image @nasa-jpl @nasa-pds @blackgirlscode  " src="https://github.com/user-attachments/assets/9b90f855-31a0-4058-a545-4e6628220a9f" />
+
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:fa5fg6kkcovesfrk6tzfwjg3/app.bsky.feed.post/3m3svun7l5s26" data-bluesky-cid="bafyreidj5jh5o5hugtalpnir7jfxmi6e6mnk757m3wu2dyd6ic6kwf7e44" data-bluesky-embed-color-mode="system"><p lang="en">#MR\_OBAMA! its rashard from @nasaearthwatch.bsky.social #EARTHDATA #LOSANGELES #JPL but im confused bc the gate and the call center are not follwoing protocol, iDont knw how to tell u github.com/rashardsdata... @crockett.house.gov @beyer.house.gov @repgwenmoore.bsky.social @judiciarydems.senate.gov<br><br><a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3/post/3m3svun7l5s26?ref\_src=embed">\[image or embed]</a></p>\&mdash; RAshard iMAN KElly - NASA/JPL/JUNO/MRO/ECOSTRESS (<a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3?ref\_src=embed">@rashardsdata.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3/post/3m3svun7l5s26?ref\_src=embed">October 22, 2025 at 3:37 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
 # LIVE: Keefe D Murder Trial Day 5 
 [Las Vegas](https://www.lasvegasnevada.gov/Government/Mayor-City-Council/Mayor) :::  [WATCH - https://youtu.be/HLlqxkZNvI8](https://youtu.be/HLlqxkZNvI8)
 Official Courtroom Proceedings `In the opening day of Tupac Shakur's murder trial, prosecutors painted former gang leader Duane "Keffe D" Davis as someone seeking revenge` - [@bbc .com/news/articles/cp3r0kz775ko](https://www.bbc.com/news/articles/cp3r0kz775ko)
